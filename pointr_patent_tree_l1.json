@@ -1,0 +1,1148 @@
+{
+    "patents": [],
+    "US10324197": {
+        "id": "US10324197",
+        "title": "Systems and methods for estimating initial heading at start-up of navigation",
+        "assignee": "Pointr Ltd",
+        "pubdate": "2018-11-13",
+        "classifications": [
+            [
+                "G01C21/206",
+                "Instruments for performing navigational calculations specially adapted for indoor navigation"
+            ],
+            [
+                "G01S19/49",
+                "Determining position by combining or switching between position solutions derived from the satellite radio beacon positioning system and position solutions derived from a further system whereby the further system is an inertial position system, e.g. loosely-coupled"
+            ],
+            [
+                "G01C21/16",
+                "Navigation; Navigational instruments not provided for in groups G01C1/00 - G01C19/00 by using measurements of speed or acceleration executed aboard the object being navigated; Dead reckoning by integrating acceleration or speed, i.e. inertial navigation"
+            ],
+            [
+                "G01C21/165",
+                "Navigation; Navigational instruments not provided for in groups G01C1/00 - G01C19/00 by using measurements of speed or acceleration executed aboard the object being navigated; Dead reckoning by integrating acceleration or speed, i.e. inertial navigation combined with non-inertial navigation instruments"
+            ],
+            [
+                "G01C21/1654",
+                "Navigation; Navigational instruments not provided for in groups G01C1/00 - G01C19/00 by using measurements of speed or acceleration executed aboard the object being navigated; Dead reckoning by integrating acceleration or speed, i.e. inertial navigation combined with non-inertial navigation instruments with electromagnetic compass"
+            ],
+            [
+                "G01S19/53",
+                "Determining attitude"
+            ],
+            [
+                "G01S5/017",
+                "Detecting state or type of motion"
+            ],
+            [
+                "G01S5/0264",
+                "Hybrid positioning by combining or switching between positions derived from two or more separate positioning systems at least one of the systems being a non-radio wave positioning system"
+            ],
+            [
+                "G01S5/0294",
+                "Trajectory determination or predictive filtering, e.g. target tracking or Kalman filtering"
+            ]
+        ],
+        "forward_citations": [
+            "US20190360812A1",
+            "CN110779520A",
+            "US11959763B1"
+        ],
+        "forward_family_citations": [],
+        "backward_citations": [
+            "US20070250261A1",
+            "US20090254276A1",
+            "US8649930B2",
+            "US20130311134A1",
+            "US20140288822A1",
+            "US20150350849A1",
+            "US20160069690A1"
+        ],
+        "backward_family_citations": [
+            "EP2025178A2",
+            "US8706137B2",
+            "US9014974B2",
+            "CN105737826B",
+            "CN106441302B"
+        ]
+    },
+    "US11029415": {
+        "id": "US11029415",
+        "title": "Systems and methods for estimating initial heading at start-up of navigation",
+        "assignee": "Pointr Ltd",
+        "pubdate": "2018-11-13",
+        "classifications": [
+            [
+                "G01S19/49",
+                "Determining position by combining or switching between position solutions derived from the satellite radio beacon positioning system and position solutions derived from a further system whereby the further system is an inertial position system, e.g. loosely-coupled"
+            ],
+            [
+                "G01C21/206",
+                "Instruments for performing navigational calculations specially adapted for indoor navigation"
+            ],
+            [
+                "G01C21/16",
+                "Navigation; Navigational instruments not provided for in groups G01C1/00 - G01C19/00 by using measurements of speed or acceleration executed aboard the object being navigated; Dead reckoning by integrating acceleration or speed, i.e. inertial navigation"
+            ],
+            [
+                "G01C21/165",
+                "Navigation; Navigational instruments not provided for in groups G01C1/00 - G01C19/00 by using measurements of speed or acceleration executed aboard the object being navigated; Dead reckoning by integrating acceleration or speed, i.e. inertial navigation combined with non-inertial navigation instruments"
+            ],
+            [
+                "G01C21/1654",
+                "Navigation; Navigational instruments not provided for in groups G01C1/00 - G01C19/00 by using measurements of speed or acceleration executed aboard the object being navigated; Dead reckoning by integrating acceleration or speed, i.e. inertial navigation combined with non-inertial navigation instruments with electromagnetic compass"
+            ],
+            [
+                "G01S19/53",
+                "Determining attitude"
+            ],
+            [
+                "G01S5/017",
+                "Detecting state or type of motion"
+            ],
+            [
+                "G01S5/0263",
+                "Hybrid positioning by combining or switching between positions derived from two or more separate positioning systems"
+            ],
+            [
+                "G01S5/0264",
+                "Hybrid positioning by combining or switching between positions derived from two or more separate positioning systems at least one of the systems being a non-radio wave positioning system"
+            ],
+            [
+                "G01S5/0294",
+                "Trajectory determination or predictive filtering, e.g. target tracking or Kalman filtering"
+            ]
+        ],
+        "forward_citations": [
+            "US11959763B1"
+        ],
+        "forward_family_citations": [
+            "WO2019226982A1",
+            "CN110779520B"
+        ],
+        "backward_citations": [
+            "US20070250261A1",
+            "US8688375B2",
+            "US20090254276A1",
+            "US8649930B2",
+            "US20130035110A1",
+            "US20130311134A1",
+            "US20140107919A1",
+            "US20140288822A1",
+            "US20150350849A1",
+            "US20160069690A1",
+            "CN105737826A",
+            "CN106441302A"
+        ],
+        "backward_family_citations": []
+    },
+    "US11169280": {
+        "id": "US11169280",
+        "title": "Systems and methods for direction estimation in indoor and outdoor locations",
+        "assignee": "Pointr Ltd",
+        "pubdate": "2018-11-13",
+        "classifications": [
+            [
+                "G01S19/49",
+                "Determining position by combining or switching between position solutions derived from the satellite radio beacon positioning system and position solutions derived from a further system whereby the further system is an inertial position system, e.g. loosely-coupled"
+            ],
+            [
+                "G01C21/206",
+                "Instruments for performing navigational calculations specially adapted for indoor navigation"
+            ],
+            [
+                "G01C21/165",
+                "Navigation; Navigational instruments not provided for in groups G01C1/00 - G01C19/00 by using measurements of speed or acceleration executed aboard the object being navigated; Dead reckoning by integrating acceleration or speed, i.e. inertial navigation combined with non-inertial navigation instruments"
+            ],
+            [
+                "G01C21/20",
+                "Instruments for performing navigational calculations"
+            ],
+            [
+                "G01S19/53",
+                "Determining attitude"
+            ]
+        ],
+        "forward_citations": [
+            "US20230143631A1",
+            "US11959763B1"
+        ],
+        "forward_family_citations": [
+            "US12104425B2",
+            "US11512518B2"
+        ],
+        "backward_citations": [
+            "US20060125644A1",
+            "US20070250261A1",
+            "US8688375B2",
+            "US20090254276A1",
+            "US8649930B2",
+            "US20110172906A1",
+            "US20130035110A1",
+            "US20130311134A1",
+            "US20140107919A1",
+            "US20140288822A1",
+            "US20150350849A1",
+            "US20160069690A1",
+            "CN105737826A",
+            "CN106441302A"
+        ],
+        "backward_family_citations": []
+    },
+    "US10378907": {
+        "id": "US10378907",
+        "title": "Methods and systems for determining vertical location in enclosed spaces",
+        "assignee": "Pointr Ltd",
+        "pubdate": "2018-11-20",
+        "classifications": [
+            [
+                "H04W4/33",
+                "Services specially adapted for particular environments, situations or purposes for indoor environments, e.g. buildings"
+            ],
+            [
+                "G01C21/206",
+                "Instruments for performing navigational calculations specially adapted for indoor navigation"
+            ],
+            [
+                "G01C5/06",
+                "Measuring height; Measuring distances transverse to line of sight; Levelling between separated points; Surveyors' levels by using barometric means"
+            ],
+            [
+                "G01S1/045",
+                "Receivers"
+            ],
+            [
+                "G01S1/047",
+                "Displays or indicators"
+            ],
+            [
+                "G01S5/02585",
+                "Hybrid positioning by combining or switching between measurements derived from different systems at least one of the measurements being a non-radio measurement"
+            ],
+            [
+                "G01S5/0278",
+                "Position-fixing by co-ordinating two or more direction or position line determinations; Position-fixing by co-ordinating two or more distance determinations using radio waves involving statistical or probabilistic considerations"
+            ],
+            [
+                "H04W4/02",
+                "Services making use of location information"
+            ],
+            [
+                "H04W4/021",
+                "Services related to particular areas, e.g. point of interest [POI] services, venue services or geofences"
+            ],
+            [
+                "H04W4/024",
+                "Guidance services"
+            ],
+            [
+                "H04W4/027",
+                "Services making use of location information using location based information parameters using movement velocity, acceleration information"
+            ],
+            [
+                "G01C21/165",
+                "Navigation; Navigational instruments not provided for in groups G01C1/00 - G01C19/00 by using measurements of speed or acceleration executed aboard the object being navigated; Dead reckoning by integrating acceleration or speed, i.e. inertial navigation combined with non-inertial navigation instruments"
+            ]
+        ],
+        "forward_citations": [
+            "US20230168333A1",
+            "US11959763B1"
+        ],
+        "forward_family_citations": [
+            "WO2021040824A1"
+        ],
+        "backward_citations": [
+            "US20160014713A1",
+            "US20120203453A1",
+            "US20150230055A1",
+            "US20150334678A1",
+            "US20180356492A1",
+            "US20170153110A1",
+            "US9820100B1"
+        ],
+        "backward_family_citations": [
+            "US9374678B2",
+            "CN104501796B",
+            "CN108317996B"
+        ]
+    },
+    "US10883833": {
+        "id": "US10883833",
+        "title": "Methods and systems for determining vertical location in enclosed spaces",
+        "assignee": "Pointr Ltd",
+        "pubdate": "2018-11-20",
+        "classifications": [
+            [
+                "H04W4/33",
+                "Services specially adapted for particular environments, situations or purposes for indoor environments, e.g. buildings"
+            ],
+            [
+                "G01C21/206",
+                "Instruments for performing navigational calculations specially adapted for indoor navigation"
+            ],
+            [
+                "G01C5/06",
+                "Measuring height; Measuring distances transverse to line of sight; Levelling between separated points; Surveyors' levels by using barometric means"
+            ],
+            [
+                "G01S1/045",
+                "Receivers"
+            ],
+            [
+                "G01S1/047",
+                "Displays or indicators"
+            ],
+            [
+                "G01S5/02585",
+                "Hybrid positioning by combining or switching between measurements derived from different systems at least one of the measurements being a non-radio measurement"
+            ],
+            [
+                "G01S5/0278",
+                "Position-fixing by co-ordinating two or more direction or position line determinations; Position-fixing by co-ordinating two or more distance determinations using radio waves involving statistical or probabilistic considerations"
+            ],
+            [
+                "H04W4/02",
+                "Services making use of location information"
+            ],
+            [
+                "H04W4/021",
+                "Services related to particular areas, e.g. point of interest [POI] services, venue services or geofences"
+            ],
+            [
+                "H04W4/024",
+                "Guidance services"
+            ],
+            [
+                "H04W4/027",
+                "Services making use of location information using location based information parameters using movement velocity, acceleration information"
+            ],
+            [
+                "G01C21/165",
+                "Navigation; Navigational instruments not provided for in groups G01C1/00 - G01C19/00 by using measurements of speed or acceleration executed aboard the object being navigated; Dead reckoning by integrating acceleration or speed, i.e. inertial navigation combined with non-inertial navigation instruments"
+            ]
+        ],
+        "forward_citations": [
+            "US11959763B1"
+        ],
+        "forward_family_citations": [
+            "WO2021040824A1",
+            "US20230168333A1"
+        ],
+        "backward_citations": [
+            "US20160014713A1",
+            "US20120203453A1",
+            "US20150230055A1",
+            "US20150249907A1",
+            "US20150334678A1",
+            "CN104501796A",
+            "US20180356492A1",
+            "EP3321629A1",
+            "US20170153110A1",
+            "US9820100B1"
+        ],
+        "backward_family_citations": []
+    },
+    "US10511971": {
+        "id": "US10511971",
+        "title": "Systems and methods for location enabled search and secure authentication",
+        "assignee": "Pointr Ltd",
+        "pubdate": "2019-05-06",
+        "classifications": [
+            [
+                "H04W12/06",
+                "Authentication"
+            ],
+            [
+                "G06Q50/40",
+                "Business processes related to the transportation industry"
+            ],
+            [
+                "G01C21/3438",
+                "Rendez-vous, i.e. searching a destination where several users can meet, and the routes to this destination for these users; Ride sharing, i.e. searching a route such that at least two users can share a vehicle for at least part of the route"
+            ],
+            [
+                "G01C21/3614",
+                "Destination input or retrieval through interaction with a road map, e.g. selecting a POI icon on a road map"
+            ],
+            [
+                "G06F21/31",
+                "User authentication"
+            ],
+            [
+                "G06Q10/02",
+                "Reservations, e.g. for tickets, services or events"
+            ],
+            [
+                "G06Q50/30",
+                ""
+            ],
+            [
+                "G08G1/202",
+                "Dispatching vehicles on the basis of a location, e.g. taxi dispatching"
+            ],
+            [
+                "G08G1/205",
+                "Indicating the location of the monitored vehicles as destination, e.g. accidents, stolen, rental"
+            ],
+            [
+                "H04L63/0807",
+                "Network architectures or network communication protocols for network security for authentication of entities using tickets, e.g. Kerberos"
+            ],
+            [
+                "H04L9/0643",
+                "Hash functions, e.g. MD5, SHA, HMAC or f9 MAC"
+            ],
+            [
+                "H04W12/069",
+                "Authentication using certificates or pre-shared keys"
+            ],
+            [
+                "H04W12/084",
+                "Access security using delegated authorisation, e.g. open authorisation [OAuth] protocol"
+            ],
+            [
+                "H04W4/023",
+                "Services making use of location information using mutual or relative location information between multiple location based services [LBS] targets or of distance thresholds"
+            ],
+            [
+                "H04W4/024",
+                "Guidance services"
+            ],
+            [
+                "H04W4/029",
+                "Location-based management or tracking services"
+            ],
+            [
+                "H04W4/90",
+                "Services for handling of emergency or hazardous situations, e.g. earthquake and tsunami warning systems [ETWS]"
+            ],
+            [
+                "H04L63/0823",
+                "Network architectures or network communication protocols for network security for authentication of entities using certificates"
+            ],
+            [
+                "H04L63/107",
+                "Network architectures or network communication protocols for network security for controlling access to devices or network resources wherein the security policies are location-dependent, e.g. entities privileges depend on current location or allowing specific operations only from locally connected terminals"
+            ],
+            [
+                "H04W12/63",
+                "Location-dependent; Proximity-dependent"
+            ]
+        ],
+        "forward_citations": [
+            "WO2021123512A1",
+            "US11109187B2",
+            "US20220108231A1",
+            "US20230003535A1",
+            "US11796330B2"
+        ],
+        "forward_family_citations": [
+            "US20200380533A1",
+            "US11761770B2",
+            "EP3859372A1"
+        ],
+        "backward_citations": [
+            "US20060155460A1",
+            "US20080277183A1",
+            "US20090172009A1",
+            "US20130256396A1",
+            "US20160027079A1",
+            "US20150254581A1",
+            "US20190228643A1",
+            "US9760702B1",
+            "US20160321771A1",
+            "US10204528B2",
+            "US20170115125A1",
+            "US20170310679A1",
+            "US10192387B2",
+            "US20180196416A1",
+            "US9904375B1",
+            "US20190017839A1",
+            "US9965960B1",
+            "US20190073676A1",
+            "US20190096021A1",
+            "US20190114638A1",
+            "US10255739B1",
+            "US20190297450A1",
+            "US20190259182A1",
+            "US20190286928A1"
+        ],
+        "backward_family_citations": [
+            "US11017428B2",
+            "US20120041675A1",
+            "DE102014224481B4",
+            "US9612123B1",
+            "US10019621B2",
+            "US11574262B2",
+            "US10667076B2",
+            "US10809081B1",
+            "US10825121B2",
+            "US10629012B1",
+            "US11269353B2",
+            "US10917756B2",
+            "US10791536B1"
+        ]
+    },
+    "US11240663": {
+        "id": "US11240663",
+        "title": "Systems and methods for location enabled search and secure authentication",
+        "assignee": "Pointer Ltd",
+        "pubdate": "2019-05-06",
+        "classifications": [
+            [
+                "H04W12/06",
+                "Authentication"
+            ],
+            [
+                "G06Q50/40",
+                "Business processes related to the transportation industry"
+            ],
+            [
+                "G01C21/3438",
+                "Rendez-vous, i.e. searching a destination where several users can meet, and the routes to this destination for these users; Ride sharing, i.e. searching a route such that at least two users can share a vehicle for at least part of the route"
+            ],
+            [
+                "G01C21/3614",
+                "Destination input or retrieval through interaction with a road map, e.g. selecting a POI icon on a road map"
+            ],
+            [
+                "G06F21/31",
+                "User authentication"
+            ],
+            [
+                "G06Q10/02",
+                "Reservations, e.g. for tickets, services or events"
+            ],
+            [
+                "G06Q50/30",
+                ""
+            ],
+            [
+                "G08G1/202",
+                "Dispatching vehicles on the basis of a location, e.g. taxi dispatching"
+            ],
+            [
+                "G08G1/205",
+                "Indicating the location of the monitored vehicles as destination, e.g. accidents, stolen, rental"
+            ],
+            [
+                "H04L63/0807",
+                "Network architectures or network communication protocols for network security for authentication of entities using tickets, e.g. Kerberos"
+            ],
+            [
+                "H04L9/0643",
+                "Hash functions, e.g. MD5, SHA, HMAC or f9 MAC"
+            ],
+            [
+                "H04W12/069",
+                "Authentication using certificates or pre-shared keys"
+            ],
+            [
+                "H04W12/084",
+                "Access security using delegated authorisation, e.g. open authorisation [OAuth] protocol"
+            ],
+            [
+                "H04W4/023",
+                "Services making use of location information using mutual or relative location information between multiple location based services [LBS] targets or of distance thresholds"
+            ],
+            [
+                "H04W4/024",
+                "Guidance services"
+            ],
+            [
+                "H04W4/029",
+                "Location-based management or tracking services"
+            ],
+            [
+                "H04W4/90",
+                "Services for handling of emergency or hazardous situations, e.g. earthquake and tsunami warning systems [ETWS]"
+            ],
+            [
+                "H04L63/0823",
+                "Network architectures or network communication protocols for network security for authentication of entities using certificates"
+            ],
+            [
+                "H04L63/107",
+                "Network architectures or network communication protocols for network security for controlling access to devices or network resources wherein the security policies are location-dependent, e.g. entities privileges depend on current location or allowing specific operations only from locally connected terminals"
+            ],
+            [
+                "H04W12/63",
+                "Location-dependent; Proximity-dependent"
+            ]
+        ],
+        "forward_citations": [
+            "US20230003535A1"
+        ],
+        "forward_family_citations": [
+            "US20200380533A1",
+            "US11109187B2",
+            "US11761770B2",
+            "WO2021123512A1",
+            "EP3859372A1",
+            "US11796330B2",
+            "JP7409277B2"
+        ],
+        "backward_citations": [
+            "US20060155460A1",
+            "US20080277183A1",
+            "US20090172009A1",
+            "US20180253757A1",
+            "US20120041675A1",
+            "US20130256396A1",
+            "US20160027079A1",
+            "US20150254581A1",
+            "US20190228643A1",
+            "US9760702B1",
+            "US20170259786A1",
+            "US20160321771A1",
+            "US10204528B2",
+            "US20170115125A1",
+            "US9612123B1",
+            "US20170310679A1",
+            "US20180075287A1",
+            "US10192387B2",
+            "US20180189713A1",
+            "US20180196416A1",
+            "US9904375B1",
+            "US20190017839A1",
+            "US9965960B1",
+            "US20190073676A1",
+            "US20190096021A1",
+            "US20190114638A1",
+            "US10255739B1",
+            "US20190297450A1",
+            "US20190259182A1",
+            "US20190286928A1",
+            "US20190327576A1",
+            "US10809081B1",
+            "US20200134763A1",
+            "US10629012B1",
+            "US20200310461A1",
+            "US20200351619A1",
+            "US10791536B1"
+        ],
+        "backward_family_citations": []
+    },
+    "US11297497": {
+        "id": "US11297497",
+        "title": "Systems and methods for location enabled search and secure authentication",
+        "assignee": "Pointr Ltd",
+        "pubdate": "2019-05-06",
+        "classifications": [
+            [
+                "H04W12/06",
+                "Authentication"
+            ],
+            [
+                "G06Q50/40",
+                "Business processes related to the transportation industry"
+            ],
+            [
+                "G01C21/3438",
+                "Rendez-vous, i.e. searching a destination where several users can meet, and the routes to this destination for these users; Ride sharing, i.e. searching a route such that at least two users can share a vehicle for at least part of the route"
+            ],
+            [
+                "G01C21/3614",
+                "Destination input or retrieval through interaction with a road map, e.g. selecting a POI icon on a road map"
+            ],
+            [
+                "G06F21/31",
+                "User authentication"
+            ],
+            [
+                "G06Q10/02",
+                "Reservations, e.g. for tickets, services or events"
+            ],
+            [
+                "G06Q50/30",
+                ""
+            ],
+            [
+                "G08G1/202",
+                "Dispatching vehicles on the basis of a location, e.g. taxi dispatching"
+            ],
+            [
+                "G08G1/205",
+                "Indicating the location of the monitored vehicles as destination, e.g. accidents, stolen, rental"
+            ],
+            [
+                "H04L63/0807",
+                "Network architectures or network communication protocols for network security for authentication of entities using tickets, e.g. Kerberos"
+            ],
+            [
+                "H04L9/0643",
+                "Hash functions, e.g. MD5, SHA, HMAC or f9 MAC"
+            ],
+            [
+                "H04W12/069",
+                "Authentication using certificates or pre-shared keys"
+            ],
+            [
+                "H04W12/084",
+                "Access security using delegated authorisation, e.g. open authorisation [OAuth] protocol"
+            ],
+            [
+                "H04W4/023",
+                "Services making use of location information using mutual or relative location information between multiple location based services [LBS] targets or of distance thresholds"
+            ],
+            [
+                "H04W4/024",
+                "Guidance services"
+            ],
+            [
+                "H04W4/029",
+                "Location-based management or tracking services"
+            ],
+            [
+                "H04W4/90",
+                "Services for handling of emergency or hazardous situations, e.g. earthquake and tsunami warning systems [ETWS]"
+            ],
+            [
+                "H04L63/0823",
+                "Network architectures or network communication protocols for network security for authentication of entities using certificates"
+            ],
+            [
+                "H04L63/107",
+                "Network architectures or network communication protocols for network security for controlling access to devices or network resources wherein the security policies are location-dependent, e.g. entities privileges depend on current location or allowing specific operations only from locally connected terminals"
+            ],
+            [
+                "H04W12/63",
+                "Location-dependent; Proximity-dependent"
+            ]
+        ],
+        "forward_citations": [],
+        "forward_family_citations": [
+            "US20200380533A1",
+            "US11109187B2",
+            "US11761770B2",
+            "WO2021123512A1",
+            "EP3859372A1",
+            "US11796330B2",
+            "JP7267499B2",
+            "JP7409277B2"
+        ],
+        "backward_citations": [
+            "US20060155460A1",
+            "US20080277183A1",
+            "US20090172009A1",
+            "US20180253757A1",
+            "US20120041675A1",
+            "US20130256396A1",
+            "US20160027079A1",
+            "US20150254581A1",
+            "US20190228643A1",
+            "US9760702B1",
+            "US20170259786A1",
+            "US20160321771A1",
+            "US10204528B2",
+            "US20170115125A1",
+            "US9612123B1",
+            "US20170310679A1",
+            "US20180075287A1",
+            "US10192387B2",
+            "US20180189713A1",
+            "US20180196416A1",
+            "US9904375B1",
+            "US20190017839A1",
+            "US9965960B1",
+            "US20190073676A1",
+            "US20190096021A1",
+            "US20190114638A1",
+            "US10255739B1",
+            "US20190297450A1",
+            "US20190259182A1",
+            "US20190286928A1",
+            "US20190327576A1",
+            "US10809081B1",
+            "US20200134763A1",
+            "US10629012B1",
+            "US20200310461A1",
+            "US20200351619A1",
+            "US10791536B1"
+        ],
+        "backward_family_citations": []
+    },
+    "US10834528": {
+        "id": "US10834528",
+        "title": "Mobile device positioning system and method",
+        "assignee": "Pointr Ltd",
+        "pubdate": "",
+        "classifications": [
+            [
+                "H04W4/023",
+                "Services making use of location information using mutual or relative location information between multiple location based services [LBS] targets or of distance thresholds"
+            ],
+            [
+                "G01C21/206",
+                "Instruments for performing navigational calculations specially adapted for indoor navigation"
+            ],
+            [
+                "G01S1/042",
+                "Transmitters"
+            ],
+            [
+                "G01S1/0428",
+                "Signal details"
+            ],
+            [
+                "G01S5/02",
+                "Position-fixing by co-ordinating two or more direction or position line determinations; Position-fixing by co-ordinating two or more distance determinations using radio waves"
+            ],
+            [
+                "G01S5/0252",
+                "Radio frequency fingerprinting"
+            ],
+            [
+                "G01S5/0295",
+                "Proximity-based methods, e.g. position inferred from reception of particular signals"
+            ],
+            [
+                "G01S5/14",
+                "Determining absolute distances from a plurality of spaced points of known location"
+            ],
+            [
+                "H04B17/318",
+                "Received signal strength"
+            ],
+            [
+                "H04W24/02",
+                "Arrangements for optimising operational condition"
+            ],
+            [
+                "H04W4/025",
+                "Services making use of location information using location based information parameters"
+            ],
+            [
+                "H04W4/80",
+                "Services using short range communication, e.g. near-field communication [NFC], radio-frequency identification [RFID] or low energy communication"
+            ],
+            [
+                "H04W48/10",
+                "Access restriction or access information delivery, e.g. discovery data delivery using broadcasted information"
+            ],
+            [
+                "G01S2205/02",
+                "Indoor"
+            ],
+            [
+                "G01S5/0226",
+                "Transmitters"
+            ]
+        ],
+        "forward_citations": [
+            "US11181608B2",
+            "US11959763B1"
+        ],
+        "forward_family_citations": [
+            "EP3314289B1",
+            "US10859663B2",
+            "DE102017006849A1",
+            "US9955307B1",
+            "DE102018203440A1",
+            "CN112616117B",
+            "US10887860B1",
+            "CN114727220B",
+            "DE102021200513A1"
+        ],
+        "backward_citations": [
+            "US20050227703A1",
+            "US20080280624A1",
+            "US20060240840A1",
+            "US20100109864A1",
+            "US20130260798A1",
+            "US20130053059A1",
+            "US20140141784A1",
+            "US20140155086A1",
+            "US20140228044A1",
+            "US20150185023A1",
+            "US20150249907A1",
+            "US20160094947A1",
+            "US20160146614A1",
+            "US20160286345A1"
+        ],
+        "backward_family_citations": [
+            "US9204250B2"
+        ]
+    },
+    "US11356810": {
+        "id": "US11356810",
+        "title": "Methods and systems of reducing the spread of contagions",
+        "assignee": "Pointr Ltd",
+        "pubdate": "2020-09-11",
+        "classifications": [
+            [
+                "G16H50/80",
+                "ICT specially adapted for medical diagnosis, medical simulation or medical data mining; ICT specially adapted for detecting, monitoring or modelling epidemics or pandemics for detecting, monitoring or modelling epidemics or pandemics, e.g. flu"
+            ],
+            [
+                "H04W4/021",
+                "Services related to particular areas, e.g. point of interest [POI] services, venue services or geofences"
+            ],
+            [
+                "H04W4/026",
+                "Services making use of location information using location based information parameters using orientation information, e.g. compass"
+            ],
+            [
+                "H04W4/029",
+                "Location-based management or tracking services"
+            ]
+        ],
+        "forward_citations": [
+            "US20220270760A1",
+            "US20220383722A1",
+            "US20230135554A1"
+        ],
+        "forward_family_citations": [],
+        "backward_citations": [
+            "US8405503B2",
+            "US10198779B2",
+            "US20210313075A1",
+            "US20210390807A1"
+        ],
+        "backward_family_citations": []
+    },
+    "US11514633": {
+        "id": "US11514633",
+        "title": "Systems and methods for automating conversion of drawings to indoor maps and plans",
+        "assignee": "Pointr Ltd",
+        "pubdate": "2022-03-10",
+        "classifications": [
+            [
+                "G06T11/203",
+                "Drawing of straight lines or curves"
+            ],
+            [
+                "G06T11/60",
+                "Editing figures and text; Combining figures or text"
+            ],
+            [
+                "G06F30/12",
+                "Geometric CAD characterised by design entry means specially adapted for CAD, e.g. graphical user interfaces [GUI] specially adapted for CAD"
+            ],
+            [
+                "G06F30/13",
+                "Architectural design, e.g. computer-aided architectural design [CAAD] related to design of buildings, bridges, landscapes, production plants or roads"
+            ],
+            [
+                "G06F30/27",
+                "Design optimisation, verification or simulation using machine learning, e.g. artificial intelligence, neural networks, support vector machines [SVM] or training a model"
+            ],
+            [
+                "G06N20/00",
+                "Machine learning"
+            ],
+            [
+                "G06N3/045",
+                "Combinations of networks"
+            ],
+            [
+                "G06N3/0475",
+                "Generative networks"
+            ],
+            [
+                "G06N3/094",
+                "Adversarial learning"
+            ],
+            [
+                "G06T11/20",
+                "Drawing from basic elements, e.g. lines or circles"
+            ],
+            [
+                "G06F2111/12",
+                "Symbolic schematics"
+            ],
+            [
+                "G06N20/20",
+                "Ensemble learning"
+            ],
+            [
+                "G06N3/088",
+                "Non-supervised learning, e.g. competitive learning"
+            ],
+            [
+                "G06N5/02",
+                "Knowledge representation; Symbolic representation"
+            ],
+            [
+                "G06N5/04",
+                "Inference or reasoning models"
+            ]
+        ],
+        "forward_citations": [
+            "US20210358202A1",
+            "CN116433869A",
+            "US11928763B2",
+            "US11959763B1",
+            "CN118521904A",
+            "CN118644578A"
+        ],
+        "forward_family_citations": [
+            "US12093615B2"
+        ],
+        "backward_citations": [
+            "US20190311533A1",
+            "US20210073433A1"
+        ],
+        "backward_family_citations": [
+            "US7227893B1",
+            "US6819965B2",
+            "US8260039B2",
+            "US9477904B2",
+            "JP6116746B1",
+            "US10539424B2",
+            "US11190902B1",
+            "US11768974B2",
+            "US11310629B2",
+            "CN111854758A",
+            "US20220035973A1",
+            "US20220138621A1",
+            "WO2022104328A1",
+            "US20230157506A1",
+            "US11514633B1"
+        ]
+    },
+    "US11716616": {
+        "id": "US11716616",
+        "title": "Systems and methods for location enabled search and secure authentication",
+        "assignee": "Pointr Ltd",
+        "pubdate": "2019-05-06",
+        "classifications": [
+            [
+                "G06Q50/40",
+                "Business processes related to the transportation industry"
+            ],
+            [
+                "H04W12/06",
+                "Authentication"
+            ],
+            [
+                "G01C21/3614",
+                "Destination input or retrieval through interaction with a road map, e.g. selecting a POI icon on a road map"
+            ],
+            [
+                "G01C21/3623",
+                "Destination input or retrieval using a camera or code reader, e.g. for optical or magnetic codes"
+            ],
+            [
+                "G01C21/3632",
+                "Guidance using simplified or iconic instructions, e.g. using arrows"
+            ],
+            [
+                "G01C21/3647",
+                "Guidance involving output of stored or live camera images or video streams"
+            ],
+            [
+                "G06Q50/30",
+                ""
+            ],
+            [
+                "H04L63/0807",
+                "Network architectures or network communication protocols for network security for authentication of entities using tickets, e.g. Kerberos"
+            ],
+            [
+                "H04L67/12",
+                "Protocols specially adapted for proprietary or special-purpose networking environments, e.g. medical networks, sensor networks, networks in vehicles or remote metering networks"
+            ],
+            [
+                "H04L9/0643",
+                "Hash functions, e.g. MD5, SHA, HMAC or f9 MAC"
+            ],
+            [
+                "H04W4/024",
+                "Guidance services"
+            ],
+            [
+                "H04W4/029",
+                "Location-based management or tracking services"
+            ],
+            [
+                "H04W4/80",
+                "Services using short range communication, e.g. near-field communication [NFC], radio-frequency identification [RFID] or low energy communication"
+            ],
+            [
+                "H04W4/90",
+                "Services for handling of emergency or hazardous situations, e.g. earthquake and tsunami warning systems [ETWS]"
+            ],
+            [
+                "G07B15/02",
+                "Arrangements or apparatus for collecting fares, tolls or entrance fees at one or more control points taking into account a variable factor such as distance or time, e.g. for passenger transport, parking systems or car rental systems"
+            ]
+        ],
+        "forward_citations": [],
+        "forward_family_citations": [
+            "US11267439B2",
+            "EP3859372A1",
+            "US20210011787A1",
+            "US11350236B2",
+            "US20230044015A1",
+            "CN113890658B"
+        ],
+        "backward_citations": [
+            "US20060155460A1",
+            "US20080277183A1",
+            "US8086400B2",
+            "US20090172009A1",
+            "US20180253757A1",
+            "US20120041675A1",
+            "US20120239452A1",
+            "US20140038640A1",
+            "US20130256396A1",
+            "US20160027079A1",
+            "US20150254581A1",
+            "US20190228643A1",
+            "US9760702B1",
+            "US20160125737A1",
+            "US20170259786A1",
+            "US20160171574A1",
+            "US20160232719A1",
+            "US20160321771A1",
+            "US9723469B2",
+            "US10204528B2",
+            "US20170115125A1",
+            "US20170127215A1",
+            "US9612123B1",
+            "US20170262770A1",
+            "US20170310679A1",
+            "US20180060778A1",
+            "US20180068505A1",
+            "US20180075287A1",
+            "US10192387B2",
+            "US20190316920A1",
+            "US20180189713A1",
+            "US20180196416A1",
+            "US20180196417A1",
+            "US9904375B1",
+            "US20190017839A1",
+            "US20200334631A1",
+            "US9965960B1",
+            "US10423834B2",
+            "US10508925B2",
+            "US20190073676A1",
+            "US11067410B2",
+            "US20190096021A1",
+            "US20190114638A1",
+            "US10255739B1",
+            "US20190297450A1",
+            "US20200349666A1",
+            "US20190259182A1",
+            "US20190286928A1",
+            "US20190327576A1",
+            "US10809081B1",
+            "US20200005557A1",
+            "US20200013287A1",
+            "US20210258308A1",
+            "US20200134763A1",
+            "US11100680B2",
+            "US10629012B1",
+            "US10501055B1",
+            "US10740615B2",
+            "US20200310461A1",
+            "US20200351619A1",
+            "US10791536B1",
+            "US20210056477A1",
+            "US20210333122A1",
+            "US20220353079A1"
+        ],
+        "backward_family_citations": []
+    }
+}

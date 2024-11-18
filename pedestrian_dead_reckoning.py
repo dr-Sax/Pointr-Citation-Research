@@ -106,6 +106,17 @@ def get_backward_family_citations(soup):
         l.append(a)
     return l
 
+def get_classifications(soup):
+    classifications = []
+    l = soup.find_all('ul', {'itemprop': "classifications"})
+    for i in range(0, len(l)):
+        a = l[i].find_all('li')
+        id = a[-1].get_text().split('—')[0].strip('\n')
+
+        name = a[-1].get_text().split('—')[1].strip().strip('\n')
+        classifications.append([id, name])
+    return classifications
+
 def request_page(patent_id):
     page_html = requests.get(
                     f'{GOOGLE_PATENTS_URL_PRE}{patent_id}/en', 
@@ -117,10 +128,12 @@ def request_page(patent_id):
     return soup
 
 def json_builder(patent_id):
+    
     soup = request_page(patent_id)
     title = get_title(soup)
     assignee = get_assignee(soup)
     pubdate = get_pubdate(soup)
+    classifications = get_classifications(soup)
     fw_citations = get_forward_citations(soup)
     fw_fm_citations = get_forward_family_citations(soup)
     bw_citations = get_backward_citations(soup)
@@ -131,6 +144,7 @@ def json_builder(patent_id):
         'title': title,
         'assignee': assignee,
         'pubdate': pubdate,
+        'classifications': classifications,
         'forward_citations': fw_citations,
         'forward_family_citations': fw_fm_citations,
         'backward_citations': bw_citations,
@@ -140,6 +154,4 @@ def json_builder(patent_id):
     return json
 
 
-if __name__=="__main__":
-    out = json_builder('US11356810')
-    print(out)
+
