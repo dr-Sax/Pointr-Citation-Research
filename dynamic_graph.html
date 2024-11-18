@@ -1,0 +1,36 @@
+<head>
+    <style> body { margin: 0; } </style>
+  
+    <script src="//unpkg.com/3d-force-graph"></script>
+    <!--<script src="../../dist/3d-force-graph.js"></script>-->
+  </head>
+  
+  <body>
+    <div id="3d-graph"></div>
+  
+    <script>
+
+
+        const data = {
+            nodes: [
+                { id: "A", size: 10},
+                { id: "B"},
+                { id: "C"},
+            ],
+            links: [
+                { source: "B", target: "C" },
+                { source: "C", target: "A" },
+                { source: "A", target: "B" },
+            ]
+        };
+
+       const Graph = ForceGraph3D()
+        (document.getElementById('3d-graph'))
+        .graphData(data)
+        .nodeVal(node => node.size) // Assuming 'size' is a property in your node data
+        .nodeLabel(node => node.id);
+
+        
+
+    </script>
+  </body>
