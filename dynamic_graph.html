@@ -1,34 +1,63 @@
 <head>
-    <style> body { margin: 0; } </style>
+    <style>
+        body { 
+            margin: 0; 
+            background-color: white; 
+        }
+        canvas { width: 100%; height: 100%; }
+    </style>
   
     <script src="//unpkg.com/3d-force-graph"></script>
-    <!--<script src="../../dist/3d-force-graph.js"></script>-->
-  </head>
+    <script src="https://cdn.jsdelivr.net/npm/d3-dispatch@3"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-quadtree@3"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-timer@3"></script>
+    <script src="https://unpkg.com/d3-binarytree"></script>
+    <script src="https://unpkg.com/d3-octree"></script>
+    <script src="https://unpkg.com/d3-force-3d"></script>
+    <script type="module" src='//unpkg.com/three/build/three.module.js'></script>
+</head>
   
   <body>
     <div id="3d-graph"></div>
   
-    <script>
-
-
-        const data = {
-            nodes: [
-                { id: "A", size: 10},
-                { id: "B"},
-                { id: "C"},
-            ],
-            links: [
-                { source: "B", target: "C" },
-                { source: "C", target: "A" },
-                { source: "A", target: "B" },
-            ]
-        };
-
-       const Graph = ForceGraph3D()
+    <script type="module">
+        import * as THREE from '//unpkg.com/three/build/three.module.js';
+        
+        const Graph = ForceGraph3D()
         (document.getElementById('3d-graph'))
-        .graphData(data)
-        .nodeVal(node => node.size) // Assuming 'size' is a property in your node data
-        .nodeLabel(node => node.id);
+        
+        .jsonUrl('./formatted_patent_data/l1_l2_mix_tree_fmt.json')
+        
+        .nodeVal(node => node.size) // Use size directly
+        .nodeLabel(node => node.id + '\n' + node.company + '\n' + node.pubdate + '\n' + node.title)
+        .onNodeClick(node => {
+            window.open(`https://patents.google.com/patent/${node.id}`, '_blank');
+        })
+        .nodeThreeObject(node => {
+            const imgTexture = new THREE.TextureLoader().load(node.imgurl);
+            imgTexture.colorSpace = THREE.SRGBColorSpace;
+            const material = new THREE.SpriteMaterial({ map: imgTexture });
+            const sprite = new THREE.Sprite(material);
+            sprite.scale.set(node.size / 50, node.size / 50);
+            sprite
+            return sprite;
+        })
+
+        .d3Force('link', d3.forceLink().distance(100)) // Explicit link distance
+        .d3Force('charge', d3.forceManyBody()
+        .strength(-500) // Adjust repulsion strength
+        )
+        .d3Force('center', d3.forceCenter()) // Center the graph
+        .linkColor(() => 'orange')
+        .linkWidth(2)
+        .linkOpacity(.3)
+        .nodeLabels(true)
+        .nodelabelFontSize(1000) // Set label font size
+        .nodeLabelsVisibility(true)
+        .nodeColor(node => 'rgba(255,255,255,0.7)')
+        .backgroundColor('black');  // Set background to white
+    
+  
 
         
 

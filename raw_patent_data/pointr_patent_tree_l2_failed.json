@@ -1,0 +1,120 @@
+{
+    "WO2021040824A1": {
+        "id": "WO2021040824A1",
+        "title": "Systems and methods for determining contexts of mobile devices",
+        "assignee": "Nextnav, Llc",
+        "pubdate": "2020-05-12",
+        "classifications": [
+        ],
+        "forward_citations": [
+            "EP4391510A1"
+        ],
+        "forward_family_citations": [
+            "CN114270795A",
+            "US12058194B2"
+        ],
+        "backward_citations": [
+            "US20110106449A1",
+            "US8130141B2",
+            "US20120182180A1",
+            "JP2013200156A",
+            "US20140188381A1",
+            "US20150247917A1"
+        ],
+        "backward_family_citations": [
+            "US9234965B2",
+            "US8594701B2",
+            "US8635023B2",
+            "JP6178718B2",
+            "US9970757B2",
+            "US9374678B2",
+            "US20160124069A1",
+            "US9936342B2",
+            "WO2017040027A1",
+            "KR102596019B1",
+            "US9843905B1",
+            "US10820152B2",
+            "US10378907B1",
+            "CN114270795A"
+        ]
+    },
+
+    "WO2021123512A1": {
+        "id": "WO2021123512A1",
+        "title": "System for sharing geolocation data between a navigation aid system of a vehicle and a first communicating terminal",
+        "assignee": "Psa Automobiles Sa",
+        "pubdate": "2019-12-20",
+        "classifications": [
+        ],
+        "forward_citations": [
+        ],
+        "forward_family_citations": [
+        ],
+        "backward_citations": [
+            "FR2912222A1",
+            "US20160034828A1",
+            "US20180259351A1",
+            "US10511971B1"
+        ],
+        "backward_family_citations": [
+        ]
+    },
+
+    "WO2019226982A1": {
+        "id": "WO2019226982A1",
+        "title": "Dynamically responsive real-time positioning feedback system",
+        "assignee": "Cubic Corporation",
+        "pubdate": "2019-5-24",
+        "classifications": [
+        ],
+        "forward_citations": [
+            "US20070273514A1",
+            "US20150317853A1",
+            "US20160042631A1",
+            "EP2991041A2",
+            "US20170061715A1"
+        ],
+        "forward_family_citations": [
+            "FR2980327B1",
+            "US10132635B2",
+            "US10445777B2",
+            "KR20170060034A",
+            "US10039031B2",
+            "US10054446B2",
+            "US10192242B1",
+            "US10324197B1"
+        ],
+        "backward_citations": [
+            "WO2021154840A1 ",
+            "EP3859690B1",
+            "WO2024154430A1"
+        ],
+        "backward_family_citations": [
+        ]
+    },
+
+    "WO2022104328A1": {
+        "id": "WO2022104328A1",
+        "title": "Method and system for improved auto-calibration of a robotic cell",
+        "assignee": "Bright Machines, Inc.",
+        "pubdate": "2021-11-09",
+        "classifications": [
+        ],
+        "forward_citations": [       
+        ],
+        "forward_family_citations": [
+            "US11912513B1",
+            "US11514633B1",
+            "US20240078442A1",
+            "EP4335599A1",
+            "WO2024086784A1",
+            "EP4385676B1",
+            "US20240353816A1",
+            "CN117901142B" 
+        ],
+        "backward_citations": [
+        ],
+        "backward_family_citations": [
+        ]
+    }
+}

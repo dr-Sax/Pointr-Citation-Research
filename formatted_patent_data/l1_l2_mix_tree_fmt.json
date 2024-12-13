@@ -1,0 +1,3154 @@
+{
+    "nodes": [
+        {
+            "id": "US10324197",
+            "size": 1000,
+            "title": "Systems and methods for estimating initial heading at start-up of navigation",
+            "company": "Pointr Ltd",
+            "pubdate": "2018-11-13",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUJsOaQ1RwEWpW_AQvTXiKMvFs0smOf0SLpw&s"
+        },
+        {
+            "id": "US20190360812A1",
+            "size": 2000,
+            "title": "Dynamically responsive real-time positioning feedback system",
+            "company": "Cubic Corp",
+            "pubdate": "2018-05-24",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrHAkzw4e_h9M8SpPgl74dwUiKcZyUk7zOZQ&s"
+        },
+        {
+            "id": "CN110779520A",
+            "size": 2000,
+            "title": "Navigation method and device, electronic equipment and computer readable storage medium",
+            "company": "Tencent Technology Shenzhen Co Ltd",
+            "pubdate": "2019-10-21",
+            "imgurl": ""
+        },
+        {
+            "id": "US11959763B1",
+            "size": 10000,
+            "title": "Methods and systems of generating route guidance in near real-time",
+            "company": "Pointr Ltd",
+            "pubdate": "2023-07-20",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUJsOaQ1RwEWpW_AQvTXiKMvFs0smOf0SLpw&s"
+        },
+        {
+            "id": "US20070250261A1",
+            "size": 4000,
+            "title": "Motion classification methods for personal navigation",
+            "company": "Honeywell International Inc",
+            "pubdate": "2006-04-20",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl75rvOsSDKwnvHhBx2CqvzM3zFCINbXPV3w&s"
+        },
+        {
+            "id": "US20090254276A1",
+            "size": 4000,
+            "title": "Method and computer-readable storage medium with instructions for processing data in an internal navigation system",
+            "company": "Ensco Inc",
+            "pubdate": "2008-04-08",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShKNZhEDDYT0t0PLYKx1t_mMBZuh9cCmNQQg&s"
+        },
+        {
+            "id": "US8649930B2",
+            "size": 4000,
+            "title": "GNSS integrated multi-sensor control system and method",
+            "company": "Agjunction LLC",
+            "pubdate": "2009-09-17",
+            "imgurl": "https://media.licdn.com/dms/image/v2/C560BAQGYh8klcSFnbQ/company-logo_200_200/company-logo_200_200/0/1630644637457/agjunction_logo?e=2147483647&v=beta&t=tVQgs9nORERrYEF5SJ48dMV5sdzuSTNgRWIY4KMet4Q"
+        },
+        {
+            "id": "US20130311134A1",
+            "size": 4000,
+            "title": "Method for step detection and gait direction estimation",
+            "company": "TRX Systems Inc",
+            "pubdate": "2012-05-18",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-FUlrNOr_0GuU208qRmK3Rdal0wLVJ-XSA&s"
+        },
+        {
+            "id": "US20140288822A1",
+            "size": 4000,
+            "title": "Controlling position uncertainty in a mobile device",
+            "company": "Qualcomm Inc",
+            "pubdate": "2013-03-22",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtiugqwaVxrSUesIxJP-HX_pTpYMOHMBxUg&s"
+        },
+        {
+            "id": "US20150350849A1",
+            "size": 4000,
+            "title": "Location Determination Using Dual Statistical Filters",
+            "company": "Apple Inc",
+            "pubdate": "2014-05-31",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA5r0_FrSjm2OgttQLwh_CnVCnzbJ7dLv6oA&s"
+        },
+        {
+            "id": "US20160069690A1",
+            "size": 4000,
+            "title": "Method and apparatus for using map information aided enhanced portable navigation",
+            "company": "InvenSense Inc",
+            "pubdate": "2014-09-08",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpt-7iKjsIDbugqz3fBfA4d-ewFKJ735Rag&s"
+        },
+        {
+            "id": "EP2025178A2",
+            "size": 2000,
+            "title": "Method and system for locating and monitoring first responders",
+            "company": "TRX Systems Inc",
+            "pubdate": "2006-05-31",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-FUlrNOr_0GuU208qRmK3Rdal0wLVJ-XSA&s"
+        },
+        {
+            "id": "US8706137B2",
+            "size": 2000,
+            "title": "Likelihood of mobile device portal transition",
+            "company": "Qualcomm Inc",
+            "pubdate": "2011-08-02",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtiugqwaVxrSUesIxJP-HX_pTpYMOHMBxUg&s"
+        },
+        {
+            "id": "US9014974B2",
+            "size": 2000,
+            "title": "Predictive scheduling of navigation tasks",
+            "company": "Qualcomm Inc",
+            "pubdate": "2012-10-16",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtiugqwaVxrSUesIxJP-HX_pTpYMOHMBxUg&s"
+        },
+        {
+            "id": "CN105737826B",
+            "size": 2000,
+            "title": "Pedestrian's indoor orientation method",
+            "company": "China University of Geosciences",
+            "pubdate": "2016-02-24",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5jic62EPQMc_Z5ObjEet-0_D_jZ6Pgl9ipw&s"
+        },
+        {
+            "id": "CN106441302B",
+            "size": 2000,
+            "title": "Indoor positioning method in large-scale open area",
+            "company": "Shanghai Jiaotong University",
+            "pubdate": "2016-09-23",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbSkn9IqQNxhJwmb9NfpMuqH0H0lrLI_aRcw&s"
+        },
+        {
+            "id": "US11029415",
+            "size": 1000,
+            "title": "Systems and methods for estimating initial heading at start-up of navigation",
+            "company": "Pointr Ltd",
+            "pubdate": "2018-11-13",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUJsOaQ1RwEWpW_AQvTXiKMvFs0smOf0SLpw&s"
+        },
+        {
+            "id": "WO2019226982A1",
+            "size": 2000,
+            "title": "Dynamically responsive real-time positioning feedback system",
+            "company": "Cubic Corporation",
+            "pubdate": "2019-5-24",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrHAkzw4e_h9M8SpPgl74dwUiKcZyUk7zOZQ&s"
+        },
+        {
+            "id": "CN110779520B",
+            "size": 2000,
+            "title": "Navigation method and device, electronic equipment and computer readable storage medium",
+            "company": "Tencent Technology Shenzhen Co Ltd",
+            "pubdate": "2019-10-21",
+            "imgurl": ""
+        },
+        {
+            "id": "US8688375B2",
+            "size": 3000,
+            "title": "Method and system for locating and monitoring first responders",
+            "company": "TRX Systems Inc",
+            "pubdate": "2006-05-31",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-FUlrNOr_0GuU208qRmK3Rdal0wLVJ-XSA&s"
+        },
+        {
+            "id": "US20130035110A1",
+            "size": 3000,
+            "title": "Likelihood of mobile device portal transition",
+            "company": "Qualcomm Inc",
+            "pubdate": "2011-08-02",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtiugqwaVxrSUesIxJP-HX_pTpYMOHMBxUg&s"
+        },
+        {
+            "id": "US20140107919A1",
+            "size": 3000,
+            "title": "Predictive scheduling of navigation tasks",
+            "company": "Qualcomm Inc",
+            "pubdate": "2012-10-16",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtiugqwaVxrSUesIxJP-HX_pTpYMOHMBxUg&s"
+        },
+        {
+            "id": "CN105737826A",
+            "size": 3000,
+            "title": "Indoor positioning method for pedestrian",
+            "company": "China University of Geosciences",
+            "pubdate": "2016-02-24",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5jic62EPQMc_Z5ObjEet-0_D_jZ6Pgl9ipw&s"
+        },
+        {
+            "id": "CN106441302A",
+            "size": 3000,
+            "title": "Indoor localization method for large open type area",
+            "company": "Shanghai Jiaotong University",
+            "pubdate": "2016-09-23",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbSkn9IqQNxhJwmb9NfpMuqH0H0lrLI_aRcw&s"
+        },
+        {
+            "id": "US11169280",
+            "size": 1000,
+            "title": "Systems and methods for direction estimation in indoor and outdoor locations",
+            "company": "Pointr Ltd",
+            "pubdate": "2018-11-13",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUJsOaQ1RwEWpW_AQvTXiKMvFs0smOf0SLpw&s"
+        },
+        {
+            "id": "US20230143631A1",
+            "size": 2000,
+            "title": "Electronic Device and Control Method Thereof",
+            "company": "Hyundai Motor Co",
+            "pubdate": "",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDeWI7-Q9tq2CgGUnG7u_bn2AA8SNAGMf3aw&s"
+        },
+        {
+            "id": "US12104425B2",
+            "size": 2000,
+            "title": "Apparatus and method for door control",
+            "company": "Cornellcookson LLC",
+            "pubdate": "2020-01-14",
+            "imgurl": ""
+        },
+        {
+            "id": "US11512518B2",
+            "size": 2000,
+            "title": "Apparatus and method for door control",
+            "company": "Cornellcookson LLC",
+            "pubdate": "2020-01-14",
+            "imgurl": ""
+        },
+        {
+            "id": "US20060125644A1",
+            "size": 2000,
+            "title": "Tracking method and apparatus",
+            "company": "Commonwealth Scientific and Industrial Research Organization CSIRO",
+            "pubdate": "2003-02-26",
+            "imgurl": ""
+        },
+        {
+            "id": "US20110172906A1",
+            "size": 2000,
+            "title": "Scalable Routing For Mobile Station Navigation With Location Context Identifier",
+            "company": "Qualcomm Inc",
+            "pubdate": "2010-01-14",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtiugqwaVxrSUesIxJP-HX_pTpYMOHMBxUg&s"
+        },
+        {
+            "id": "US10378907",
+            "size": 1000,
+            "title": "Methods and systems for determining vertical location in enclosed spaces",
+            "company": "Pointr Ltd",
+            "pubdate": "2018-11-20",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUJsOaQ1RwEWpW_AQvTXiKMvFs0smOf0SLpw&s"
+        },
+        {
+            "id": "US20230168333A1",
+            "size": 3000,
+            "title": "Floor change detection using signal strength changes and position estimation",
+            "company": "Here Global BV",
+            "pubdate": "2021-11-29",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPWwkSuHxSws3WEhcLActeAED978ea969dNg&s"
+        },
+        {
+            "id": "WO2021040824A1",
+            "size": 3000,
+            "title": "Systems and methods for determining contexts of mobile devices",
+            "company": "Nextnav, Llc",
+            "pubdate": "2020-05-12",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOOlWausnyZwcYpY9c-H2njjMje1wCy0Ztbw&s"
+        },
+        {
+            "id": "US20160014713A1",
+            "size": 3000,
+            "title": "System and method for robust navigation and geolocation using measurements of opportunity",
+            "company": "Parsons Corp",
+            "pubdate": "2010-09-30",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Tr4NdALRqHaU16-L1aEBjWxutNR7HG0Z3Q&s"
+        },
+        {
+            "id": "US20120203453A1",
+            "size": 3000,
+            "title": "Method and device for indoor positioning",
+            "company": "Senion AB",
+            "pubdate": "2011-02-09",
+            "imgurl": "https://media.licdn.com/dms/image/v2/C4E0BAQEBjc_MnDNB1A/company-logo_200_200/company-logo_200_200/0/1630601119675/senionlab_logo?e=2147483647&v=beta&t=qRsCaQ_KfxfOhgW0hdv-bb-OQNcndh4TTz2B4PDQ8os"
+        },
+        {
+            "id": "US20150230055A1",
+            "size": 3000,
+            "title": "Method and System for Providing Enhanced Location Based Information for Wireless Handsets",
+            "company": "Rivada Networks Inc",
+            "pubdate": "2011-08-18",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_A7M_kbDjNCq7YmQUkyGU6vVc6zGpyzi7g&s"
+        },
+        {
+            "id": "US20150334678A1",
+            "size": 3000,
+            "title": "Batch processing for improved georeferencing",
+            "company": "Apple Inc",
+            "pubdate": "2014-05-16",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA5r0_FrSjm2OgttQLwh_CnVCnzbJ7dLv6oA&s"
+        },
+        {
+            "id": "US20180356492A1",
+            "size": 3000,
+            "title": "Vision based location estimation system",
+            "company": "Individual",
+            "pubdate": "2015-06-16",
+            "imgurl": ""
+        },
+        {
+            "id": "US20170153110A1",
+            "size": 3000,
+            "title": "Inertial device, recording medium, and method for positioning",
+            "company": "Ricoh Co Ltd",
+            "pubdate": "",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROrefXq2iaMEyDW-EUR7Y-NJbJ4_QnXz3KJA&s"
+        },
+        {
+            "id": "US9820100B1",
+            "size": 3000,
+            "title": "Multi-source positioning",
+            "company": "Qualcomm Inc",
+            "pubdate": "2016-06-17",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtiugqwaVxrSUesIxJP-HX_pTpYMOHMBxUg&s"
+        },
+        {
+            "id": "US9374678B2",
+            "size": 2000,
+            "title": "Kalman filter iteratively performing time/measurement update of user/relative floor locations",
+            "company": "Texas Instruments Inc",
+            "pubdate": "2014-02-28",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZ_wEfX8SGpM5YO5U-A-8JwvrCQ6crauweg&s"
+        },
+        {
+            "id": "CN104501796B",
+            "size": 2000,
+            "title": "A kind of interior WLAN/MEMS merges across floor 3-dimensional localization method",
+            "company": "Guangdong Beidou Tianyun Technology Co., Ltd.",
+            "pubdate": "2014-12-16",
+            "imgurl": ""
+        },
+        {
+            "id": "CN108317996B",
+            "size": 2000,
+            "title": "Floor determining method, related equipment and system",
+            "company": "Huawei Device Co Ltd",
+            "pubdate": "2015-08-27",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR7VGvceSXP9Trp8MPf8ZCVXJkgDepPyGOUQ&s"
+        },
+        {
+            "id": "US10883833",
+            "size": 1000,
+            "title": "Methods and systems for determining vertical location in enclosed spaces",
+            "company": "Pointr Ltd",
+            "pubdate": "2018-11-20",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUJsOaQ1RwEWpW_AQvTXiKMvFs0smOf0SLpw&s"
+        },
+        {
+            "id": "US20150249907A1",
+            "size": 3000,
+            "title": "Method and system for location estimation",
+            "company": "Texas Instruments Inc",
+            "pubdate": "2014-02-28",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZ_wEfX8SGpM5YO5U-A-8JwvrCQ6crauweg&s"
+        },
+        {
+            "id": "CN104501796A",
+            "size": 2000,
+            "title": "Indoor WLAN/MEMS fusion cross-stair three-dimensional positioning method",
+            "company": "Guangdong Beidou Tianyun Technology Co., Ltd.",
+            "pubdate": "2014-12-16",
+            "imgurl": ""
+        },
+        {
+            "id": "EP3321629A1",
+            "size": 2000,
+            "title": "Method for determining floor, related apparatus and system",
+            "company": "Huawei Technologies Co Ltd",
+            "pubdate": "2015-08-27",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR7VGvceSXP9Trp8MPf8ZCVXJkgDepPyGOUQ&s"
+        },
+        {
+            "id": "US10511971",
+            "size": 1000,
+            "title": "Systems and methods for location enabled search and secure authentication",
+            "company": "Pointr Ltd",
+            "pubdate": "2019-05-06",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUJsOaQ1RwEWpW_AQvTXiKMvFs0smOf0SLpw&s"
+        },
+        {
+            "id": "WO2021123512A1",
+            "size": 3000,
+            "title": "System for sharing geolocation data between a navigation aid system of a vehicle and a first communicating terminal",
+            "company": "Psa Automobiles Sa",
+            "pubdate": "2019-12-20",
+            "imgurl": ""
+        },
+        {
+            "id": "US11109187B2",
+            "size": 3000,
+            "title": "Device to device communication and wayfinding",
+            "company": "T Mobile USA Inc",
+            "pubdate": "2019-09-24",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVLrF3Anlz58afV5fQ6AeoGi5Xp-j_RFGI_g&s"
+        },
+        {
+            "id": "US20220108231A1",
+            "size": 2000,
+            "title": "Mobility service system and mobility service delivery method",
+            "company": "Toyota Motor Corp",
+            "pubdate": "2020-10-05",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSddeOT3z1Knwf-YtVWZbfjQObS7t8bBE1wmQ&s"
+        },
+        {
+            "id": "US20230003535A1",
+            "size": 2000,
+            "title": "Rendezvous assistance system and rendezvous assistance method",
+            "company": "Mitsubishi Electric Corp",
+            "pubdate": "2020-02-27",
+            "imgurl": ""
+        },
+        {
+            "id": "US11796330B2",
+            "size": 3000,
+            "title": "System and method for providing value recommendations to ride-hailing drivers",
+            "company": "Borgwarner Us Technologies LLC",
+            "pubdate": "2020-02-11",
+            "imgurl": ""
+        },
+        {
+            "id": "US20200380533A1",
+            "size": 3000,
+            "title": "Driver verification for ride hailing service",
+            "company": "Carrier Corp",
+            "pubdate": "2019-05-30",
+            "imgurl": ""
+        },
+        {
+            "id": "US11761770B2",
+            "size": 3000,
+            "title": "Determining ridership errors by analyzing provider-requestor consistency signals across ride stages",
+            "company": "Lyft Inc",
+            "pubdate": "2019-11-22",
+            "imgurl": "https://voodooneon.com/cdn/shop/files/lyft-base-blackwall.jpg?v=1726614004&width=1066"
+        },
+        {
+            "id": "EP3859372A1",
+            "size": 4000,
+            "title": "Apparatus, method and computer program for a vehicle",
+            "company": "Bayerische Motoren Werke AG",
+            "pubdate": "2020-01-31",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsBmB0MzASlFQ0ty-z88E2dTS7OxPI7D4tKw&s"
+        },
+        {
+            "id": "US20060155460A1",
+            "size": 4000,
+            "title": "Method for GPS carpool rendezvous tracking and personal safety verification",
+            "company": "Hailo Technologies LLC",
+            "pubdate": "2005-01-08",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm3Yi58LUKwcE9oUjpCzMiUQpqBxgVqit-Cg&s"
+        },
+        {
+            "id": "US20080277183A1",
+            "size": 4000,
+            "title": "System and method for security enhanced rideshare",
+            "company": "Cortland Capital Market Services LLC",
+            "pubdate": "2007-05-11",
+            "imgurl": "https://media.licdn.com/dms/image/v2/C560BAQFLq3Y4AEuyMg/company-logo_200_200/company-logo_200_200/0/1631418758482/cortland_capital_market_services_llc_logo?e=2147483647&v=beta&t=DPhg-RCN-MfQALiqgNleIcOePT6gl9hI-uksxAGksKs"
+        },
+        {
+            "id": "US20090172009A1",
+            "size": 4000,
+            "title": "Carpool or Ride Matching by wireless digital messaging Linked Database",
+            "company": "Carpools Consolidated Corp",
+            "pubdate": "2007-12-28",
+            "imgurl": ""
+        },
+        {
+            "id": "US20130256396A1",
+            "size": 4000,
+            "title": "Driver/parent arrival notification system and method of notification",
+            "company": "DISCOVERY SCHOOLS Inc",
+            "pubdate": "2012-03-29",
+            "imgurl": ""
+        },
+        {
+            "id": "US20160027079A1",
+            "size": 4000,
+            "title": "Identity Authentication And Verification",
+            "company": "Individual",
+            "pubdate": "2013-03-25",
+            "imgurl": ""
+        },
+        {
+            "id": "US20150254581A1",
+            "size": 4000,
+            "title": "Rideshare system and method to facilitate instant carpooling",
+            "company": "iCarpool Inc",
+            "pubdate": "2014-03-04",
+            "imgurl": ""
+        },
+        {
+            "id": "US20190228643A1",
+            "size": 4000,
+            "title": "Vehicle identification system and method",
+            "company": "Rideshare Displays Inc",
+            "pubdate": "2014-05-29",
+            "imgurl": ""
+        },
+        {
+            "id": "US9760702B1",
+            "size": 4000,
+            "title": "Systems and methods for driver authentication through embedded sensing",
+            "company": "JPMorgan Chase Bank NA",
+            "pubdate": "2014-07-14",
+            "imgurl": ""
+        },
+        {
+            "id": "US20160321771A1",
+            "size": 4000,
+            "title": "Ride-sharing range contours",
+            "company": "Ford Global Technologies LLC",
+            "pubdate": "2015-04-29",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzaHRbxvz5XGQZ3jbAqXBYzQi10ageJTWjzEOC_9juqYGk2egJHbFL9DQNo1nCiWZs_1U&usqp=CAU"
+        },
+        {
+            "id": "US10204528B2",
+            "size": 4000,
+            "title": "Augmenting transport services using driver profiling",
+            "company": "Cortland Capital Market Services LLC",
+            "pubdate": "2015-08-05",
+            "imgurl": "https://media.licdn.com/dms/image/v2/C560BAQFLq3Y4AEuyMg/company-logo_200_200/company-logo_200_200/0/1631418758482/cortland_capital_market_services_llc_logo?e=2147483647&v=beta&t=DPhg-RCN-MfQALiqgNleIcOePT6gl9hI-uksxAGksKs"
+        },
+        {
+            "id": "US20170115125A1",
+            "size": 4000,
+            "title": "Method for Remotely Identifying One of a Passenger and an Assigned Vehicle to the Other",
+            "company": "Individual",
+            "pubdate": "2015-09-01",
+            "imgurl": ""
+        },
+        {
+            "id": "US20170310679A1",
+            "size": 4000,
+            "title": "Security determination",
+            "company": "Airbnb Inc",
+            "pubdate": "2016-04-26",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBheFWGH5E1B5B-vdhAOaN7e6HXesAzN-ukA&s"
+        },
+        {
+            "id": "US10192387B2",
+            "size": 4000,
+            "title": "Facilitating direct rider driver pairing for mass egress areas",
+            "company": "Uber Technologies Inc",
+            "pubdate": "2016-10-12",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5bw9vJE9ekZFZsbWVHalJaX8__w807Bx-0Q&s"
+        },
+        {
+            "id": "US20180196416A1",
+            "size": 4000,
+            "title": "Location Signaling with Respect to an Autonomous Vehicle and a Rider",
+            "company": "Motional AD LLC",
+            "pubdate": "2017-01-09",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHR-tGc62UjEOYZ2nJ3T78XOvwZXbFzFWZww&s"
+        },
+        {
+            "id": "US9904375B1",
+            "size": 4000,
+            "title": "LIDAR display systems and methods",
+            "company": "Aurora Operations Inc",
+            "pubdate": "2017-04-10",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyFHNUS2FTC8ENZCFHWcG9aI5cQqQlG9uL6g&s"
+        },
+        {
+            "id": "US20190017839A1",
+            "size": 4000,
+            "title": "Providing information to users of a transportation system using augmented reality elements",
+            "company": "Lyft Inc",
+            "pubdate": "2017-07-14",
+            "imgurl": "https://voodooneon.com/cdn/shop/files/lyft-base-blackwall.jpg?v=1726614004&width=1066"
+        },
+        {
+            "id": "US9965960B1",
+            "size": 4000,
+            "title": "Facilitating transportation services by generating a directional indicator between a requester and a transportation vehicle",
+            "company": "Lyft Inc",
+            "pubdate": "2017-08-07",
+            "imgurl": "https://voodooneon.com/cdn/shop/files/lyft-base-blackwall.jpg?v=1726614004&width=1066"
+        },
+        {
+            "id": "US20190073676A1",
+            "size": 4000,
+            "title": "Location-based verification for predicting user trustworthiness",
+            "company": "Operr Technologies Inc",
+            "pubdate": "2017-09-01",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrV0ivHHBOo8xkZrqsGwU8EGf1wVCMvdyNOA&s"
+        },
+        {
+            "id": "US20190096021A1",
+            "size": 4000,
+            "title": "Methods and Apparatus for Implementing Identity and Asset Sharing Management",
+            "company": "Tyco Fire and Security GmbH",
+            "pubdate": "2017-09-22",
+            "imgurl": ""
+        },
+        {
+            "id": "US20190114638A1",
+            "size": 4000,
+            "title": "Ride Sharing User Verification System",
+            "company": "Individual",
+            "pubdate": "2017-10-18",
+            "imgurl": ""
+        },
+        {
+            "id": "US10255739B1",
+            "size": 4000,
+            "title": "Method and apparatus for rolling code vehicle access",
+            "company": "Ford Global Technologies LLC",
+            "pubdate": "2017-12-08",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzaHRbxvz5XGQZ3jbAqXBYzQi10ageJTWjzEOC_9juqYGk2egJHbFL9DQNo1nCiWZs_1U&usqp=CAU"
+        },
+        {
+            "id": "US20190297450A1",
+            "size": 4000,
+            "title": "Optimizing pickup locations for transportation requests based on context information",
+            "company": "Lyft Inc",
+            "pubdate": "2017-12-31",
+            "imgurl": "https://voodooneon.com/cdn/shop/files/lyft-base-blackwall.jpg?v=1726614004&width=1066"
+        },
+        {
+            "id": "US20190259182A1",
+            "size": 4000,
+            "title": "Deep Direct Localization from Ground Imagery and Location Readings",
+            "company": "Lyft Inc",
+            "pubdate": "2018-02-20",
+            "imgurl": "https://voodooneon.com/cdn/shop/files/lyft-base-blackwall.jpg?v=1726614004&width=1066"
+        },
+        {
+            "id": "US20190286928A1",
+            "size": 4000,
+            "title": "Mobile micro-location",
+            "company": "Microsoft Technology Licensing LLC",
+            "pubdate": "2018-03-15",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpfaGb1Iq3x4gKkiT5ZHxKeqxLR1m5ZvtrOQ&s"
+        },
+        {
+            "id": "US11017428B2",
+            "size": 2000,
+            "title": "System and method of data transmission rate adjustment",
+            "company": "Google LLC",
+            "pubdate": "2008-02-21",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9y-KpY67wYMmZueoAHOITW3pJPWrgth_2CA&s"
+        },
+        {
+            "id": "US20120041675A1",
+            "size": 4000,
+            "title": "Method and System for Coordinating Transportation Service",
+            "company": "Individual",
+            "pubdate": "2010-08-10",
+            "imgurl": ""
+        },
+        {
+            "id": "DE102014224481B4",
+            "size": 2000,
+            "title": "\n  Remote control of vehicle functionalities using a mobile device",
+            "company": "Bayerische Motoren Werke AG",
+            "pubdate": "2014-12-01",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsBmB0MzASlFQ0ty-z88E2dTS7OxPI7D4tKw&s"
+        },
+        {
+            "id": "US9612123B1",
+            "size": 4000,
+            "title": "Adaptive mapping to navigate autonomous vehicles responsive to physical environment changes",
+            "company": "Zoox Inc",
+            "pubdate": "2015-11-04",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIz4u-BsvupxC8_iygLNhdJBLBh0ejCpEcmg&s"
+        },
+        {
+            "id": "US10019621B2",
+            "size": 2000,
+            "title": "Identifying a vehicle using a mobile device",
+            "company": "General Motors LLC",
+            "pubdate": "2016-09-14",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0upSnDEjYY4VYW6mCvH7yJDqlomGykwqFlA&s"
+        },
+        {
+            "id": "US11574262B2",
+            "size": 2000,
+            "title": "Location accuracy using local device communications",
+            "company": "Lyft Inc",
+            "pubdate": "2016-12-30",
+            "imgurl": "https://voodooneon.com/cdn/shop/files/lyft-base-blackwall.jpg?v=1726614004&width=1066"
+        },
+        {
+            "id": "US10667076B2",
+            "size": 2000,
+            "title": "System for providing information in a mobility as a service vehicle regarding a service requestor mobile device and method thereof",
+            "company": "Honda Motor Co Ltd",
+            "pubdate": "2018-04-24",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQorAb8xu-VUZXIc0KBR7jbx1o-SgYlJnjN8g&s"
+        },
+        {
+            "id": "US10809081B1",
+            "size": 4000,
+            "title": "User interface and augmented reality for identifying vehicles and persons",
+            "company": "Zoox Inc",
+            "pubdate": "2018-05-03",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIz4u-BsvupxC8_iygLNhdJBLBh0ejCpEcmg&s"
+        },
+        {
+            "id": "US10825121B2",
+            "size": 2000,
+            "title": "System and method for authenticating ride-share requests",
+            "company": "Ford Global Technologies LLC",
+            "pubdate": "2018-10-25",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzaHRbxvz5XGQZ3jbAqXBYzQi10ageJTWjzEOC_9juqYGk2egJHbFL9DQNo1nCiWZs_1U&usqp=CAU"
+        },
+        {
+            "id": "US10629012B1",
+            "size": 4000,
+            "title": "Multi-factor authentication for vehicles",
+            "company": "BlackBerry Ltd",
+            "pubdate": "2018-11-13",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8F3pbHjjECoezMFffJv-y-U4X6Shc0R_Vvg&s"
+        },
+        {
+            "id": "US11269353B2",
+            "size": 2000,
+            "title": "Autonomous vehicle hailing and pickup location refinement through use of an identifier",
+            "company": "GM Cruise Holdings LLC",
+            "pubdate": "2019-03-28",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0sLh052InwT6hp_qZN8pVxEh6he2u7VmhZA&s"
+        },
+        {
+            "id": "US10917756B2",
+            "size": 2000,
+            "title": "Identification verification and authentication system",
+            "company": "Powch LLC",
+            "pubdate": "2019-05-01",
+            "imgurl": ""
+        },
+        {
+            "id": "US10791536B1",
+            "size": 4000,
+            "title": "Systems and methods for short range peer-to-peer navigation",
+            "company": "Lyft Inc",
+            "pubdate": "2019-06-19",
+            "imgurl": "https://voodooneon.com/cdn/shop/files/lyft-base-blackwall.jpg?v=1726614004&width=1066"
+        },
+        {
+            "id": "US11240663",
+            "size": 1000,
+            "title": "Systems and methods for location enabled search and secure authentication",
+            "company": "Pointer Ltd",
+            "pubdate": "2019-05-06",
+            "imgurl": ""
+        },
+        {
+            "id": "US11297497",
+            "size": 1000,
+            "title": "Systems and methods for location enabled search and secure authentication",
+            "company": "Pointr Ltd",
+            "pubdate": "2019-05-06",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUJsOaQ1RwEWpW_AQvTXiKMvFs0smOf0SLpw&s"
+        },
+        {
+            "id": "JP7267499B2",
+            "size": 2000,
+            "title": "\n  Merging support system and merging support method",
+            "company": "Mitsubishi Electric Corp",
+            "pubdate": "2020-02-27",
+            "imgurl": ""
+        },
+        {
+            "id": "JP7409277B2",
+            "size": 2000,
+            "title": "\n  Mobility service system and mobility service provision method",
+            "company": "Toyota Motor Corp",
+            "pubdate": "2020-10-05",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSddeOT3z1Knwf-YtVWZbfjQObS7t8bBE1wmQ&s"
+        },
+        {
+            "id": "US20180253757A1",
+            "size": 3000,
+            "title": "System and method of data transmission rate adjustment",
+            "company": "Google LLC",
+            "pubdate": "2008-02-21",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9y-KpY67wYMmZueoAHOITW3pJPWrgth_2CA&s"
+        },
+        {
+            "id": "US20170259786A1",
+            "size": 3000,
+            "title": "Remote Control of Vehicle Functionalities by Means of a Mobile Terminal",
+            "company": "Bayerische Motoren Werke AG",
+            "pubdate": "",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsBmB0MzASlFQ0ty-z88E2dTS7OxPI7D4tKw&s"
+        },
+        {
+            "id": "US20180075287A1",
+            "size": 3000,
+            "title": "Identifying a vehicle using a mobile device",
+            "company": "General Motors LLC",
+            "pubdate": "2016-09-14",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0upSnDEjYY4VYW6mCvH7yJDqlomGykwqFlA&s"
+        },
+        {
+            "id": "US20180189713A1",
+            "size": 3000,
+            "title": "Location accuracy using local device communications",
+            "company": "Lyft Inc",
+            "pubdate": "2016-12-30",
+            "imgurl": "https://voodooneon.com/cdn/shop/files/lyft-base-blackwall.jpg?v=1726614004&width=1066"
+        },
+        {
+            "id": "US20190327576A1",
+            "size": 3000,
+            "title": "System for providing information in a mobility as a service vehicle regarding a service requestor mobile device and method thereof",
+            "company": "Honda Motor Co Ltd",
+            "pubdate": "2018-04-24",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQorAb8xu-VUZXIc0KBR7jbx1o-SgYlJnjN8g&s"
+        },
+        {
+            "id": "US20200134763A1",
+            "size": 3000,
+            "title": "System and method for authenticating ride-share requests",
+            "company": "Ford Global Technologies LLC",
+            "pubdate": "2018-10-25",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzaHRbxvz5XGQZ3jbAqXBYzQi10ageJTWjzEOC_9juqYGk2egJHbFL9DQNo1nCiWZs_1U&usqp=CAU"
+        },
+        {
+            "id": "US20200310461A1",
+            "size": 3000,
+            "title": "Autonomous vehicle hailing and pickup location refinement through use of an identifier",
+            "company": "GM Cruise Holdings LLC",
+            "pubdate": "2019-03-28",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0sLh052InwT6hp_qZN8pVxEh6he2u7VmhZA&s"
+        },
+        {
+            "id": "US20200351619A1",
+            "size": 3000,
+            "title": "Identification verification and authentication system",
+            "company": "Powch LLC",
+            "pubdate": "2019-05-01",
+            "imgurl": ""
+        },
+        {
+            "id": "US10834528",
+            "size": 1000,
+            "title": "Mobile device positioning system and method",
+            "company": "Pointr Ltd",
+            "pubdate": "",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUJsOaQ1RwEWpW_AQvTXiKMvFs0smOf0SLpw&s"
+        },
+        {
+            "id": "US11181608B2",
+            "size": 2000,
+            "title": "More accurate asset tag locating of radio frequency devices",
+            "company": "ABL IP Holding LLC",
+            "pubdate": "2018-03-09",
+            "imgurl": ""
+        },
+        {
+            "id": "EP3314289B1",
+            "size": 2000,
+            "title": "Supporting a positioning of a mobile device by the mobile device",
+            "company": "Here Global BV",
+            "pubdate": "2015-06-29",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPWwkSuHxSws3WEhcLActeAED978ea969dNg&s"
+        },
+        {
+            "id": "US10859663B2",
+            "size": 2000,
+            "title": "Beacon-based position awareness system",
+            "company": "Pointme Ltd",
+            "pubdate": "2017-04-30",
+            "imgurl": "https://storage.googleapis.com/clean-finder-353810/$9fgKQ8uRDogmev5rFgHRMMiPFLMnT4CDZzBNJ47vLn5ggS9lxgZOPm"
+        },
+        {
+            "id": "DE102017006849A1",
+            "size": 2000,
+            "title": "\n  Method for determining the relative positions of at least two mobile terminals relative to one another",
+            "company": "Individual",
+            "pubdate": "2017-07-21",
+            "imgurl": ""
+        },
+        {
+            "id": "US9955307B1",
+            "size": 2000,
+            "title": "Distributed relative positioning",
+            "company": "Here Global BV",
+            "pubdate": "2017-08-03",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPWwkSuHxSws3WEhcLActeAED978ea969dNg&s"
+        },
+        {
+            "id": "DE102018203440A1",
+            "size": 2000,
+            "title": "\n  Method and localization system for creating or updating an environment map",
+            "company": "Robert Bosch GmbH",
+            "pubdate": "2018-03-07",
+            "imgurl": ""
+        },
+        {
+            "id": "CN112616117B",
+            "size": 2000,
+            "title": "Bluetooth beacon configuration method, personal mobile terminal and readable storage medium",
+            "company": "Bosch Power Tools China Co Ltd",
+            "pubdate": "2019-09-18",
+            "imgurl": ""
+        },
+        {
+            "id": "US10887860B1",
+            "size": 2000,
+            "title": "Apparatus and method for optimizing wireless end node location determination via targeted proximity ranging to clusters of other wireless nodes",
+            "company": "Link Labs Inc",
+            "pubdate": "2020-06-25",
+            "imgurl": ""
+        },
+        {
+            "id": "CN114727220B",
+            "size": 2000,
+            "title": "Equipment searching method and electronic equipment",
+            "company": "Huawei Technologies Co Ltd",
+            "pubdate": "2020-08-05",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR7VGvceSXP9Trp8MPf8ZCVXJkgDepPyGOUQ&s"
+        },
+        {
+            "id": "DE102021200513A1",
+            "size": 2000,
+            "title": "\n  Device and method for remote control of a household appliance",
+            "company": "BSH Hausgeraete GmbH",
+            "pubdate": "2021-01-21",
+            "imgurl": ""
+        },
+        {
+            "id": "US20050227703A1",
+            "size": 2000,
+            "title": "Method for using base station power measurements to detect position of mobile stations",
+            "company": "BenQ Corp",
+            "pubdate": "2004-03-30",
+            "imgurl": ""
+        },
+        {
+            "id": "US20080280624A1",
+            "size": 2000,
+            "title": "Methods and Apparatuses for Beacon Assisted Position Determination Systems",
+            "company": "Qualcomm Inc",
+            "pubdate": "2004-04-02",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtiugqwaVxrSUesIxJP-HX_pTpYMOHMBxUg&s"
+        },
+        {
+            "id": "US20060240840A1",
+            "size": 2000,
+            "title": "Continuous data optimization by filtering and positioning systems",
+            "company": "Skyhook Wireless Inc",
+            "pubdate": "2005-02-22",
+            "imgurl": ""
+        },
+        {
+            "id": "US20100109864A1",
+            "size": 2000,
+            "title": "System and method for in-building location determination",
+            "company": "Sony Corp",
+            "pubdate": "2008-11-06",
+            "imgurl": ""
+        },
+        {
+            "id": "US20130260798A1",
+            "size": 2000,
+            "title": "Method and system for device positioning utilizing distributed transceivers with array processing",
+            "company": "Golba LLC",
+            "pubdate": "2010-08-06",
+            "imgurl": ""
+        },
+        {
+            "id": "US20130053059A1",
+            "size": 2000,
+            "title": "Radio Localization Database Generation by Capturing Cognitive Radio Spectrum Sensing Data",
+            "company": "Empire Technology Development LLC",
+            "pubdate": "2011-08-25",
+            "imgurl": ""
+        },
+        {
+            "id": "US20140141784A1",
+            "size": 2000,
+            "title": "System and method for using geo-location and a centralized spectrum management database to enable seamless handover and geo-fencing of channel usage in wireless systems",
+            "company": "Qualcomm Inc",
+            "pubdate": "2012-11-16",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtiugqwaVxrSUesIxJP-HX_pTpYMOHMBxUg&s"
+        },
+        {
+            "id": "US20140155086A1",
+            "size": 2000,
+            "title": "Distributed system architecture to provide wireless transmitter positioning",
+            "company": "Qualcomm Inc",
+            "pubdate": "2012-11-30",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtiugqwaVxrSUesIxJP-HX_pTpYMOHMBxUg&s"
+        },
+        {
+            "id": "US20140228044A1",
+            "size": 2000,
+            "title": "Indoor navigation with low energy location beacons",
+            "company": "Trimble Inc",
+            "pubdate": "2013-02-11",
+            "imgurl": ""
+        },
+        {
+            "id": "US20150185023A1",
+            "size": 2000,
+            "title": "Turn-by-turn navigation system and method using feedforward location estimation",
+            "company": "ALBRIGHT HOLDINGS Inc",
+            "pubdate": "2013-12-31",
+            "imgurl": ""
+        },
+        {
+            "id": "US20160094947A1",
+            "size": 2000,
+            "title": "Bluetooth-Based Positioning Method and Apparatus",
+            "company": "Alibaba Group Holding Ltd",
+            "pubdate": "2014-09-25",
+            "imgurl": ""
+        },
+        {
+            "id": "US20160146614A1",
+            "size": 2000,
+            "title": "Computer vision navigation",
+            "company": "Walmart Apollo LLC",
+            "pubdate": "2014-11-25",
+            "imgurl": ""
+        },
+        {
+            "id": "US20160286345A1",
+            "size": 2000,
+            "title": "Method for optimizing mobile device region monitoring and region management for an anonymous mobile device",
+            "company": "Nrby Inc",
+            "pubdate": "2015-03-23",
+            "imgurl": ""
+        },
+        {
+            "id": "US9204250B2",
+            "size": 2000,
+            "title": "Personally attended service notification based on temporal and spatial proximity",
+            "company": "Sonic Enterprises LLC",
+            "pubdate": "2013-02-20",
+            "imgurl": ""
+        },
+        {
+            "id": "US11356810",
+            "size": 1000,
+            "title": "Methods and systems of reducing the spread of contagions",
+            "company": "Pointr Ltd",
+            "pubdate": "2020-09-11",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUJsOaQ1RwEWpW_AQvTXiKMvFs0smOf0SLpw&s"
+        },
+        {
+            "id": "US20220270760A1",
+            "size": 2000,
+            "title": "Calculating viral transfer risk and reducing exposure through occupancy optimization",
+            "company": "Optum Inc",
+            "pubdate": "2021-02-19",
+            "imgurl": ""
+        },
+        {
+            "id": "US20220383722A1",
+            "size": 2000,
+            "title": "Personal Proximity Alert Device and Associated Behavior Modification System",
+            "company": "Conservention Inc",
+            "pubdate": "2020-02-12",
+            "imgurl": ""
+        },
+        {
+            "id": "US20230135554A1",
+            "size": 2000,
+            "title": "Method and apparatus for managing movement in an indoor space",
+            "company": "Here Global BV",
+            "pubdate": "2021-11-01",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPWwkSuHxSws3WEhcLActeAED978ea969dNg&s"
+        },
+        {
+            "id": "US8405503B2",
+            "size": 2000,
+            "title": "System and method for creating a proximity map of living beings and objects",
+            "company": "Individual",
+            "pubdate": "2005-03-01",
+            "imgurl": ""
+        },
+        {
+            "id": "US10198779B2",
+            "size": 2000,
+            "title": "Tracking proximity relationships and uses thereof",
+            "company": "Bentley Systems Inc",
+            "pubdate": "2016-06-03",
+            "imgurl": ""
+        },
+        {
+            "id": "US20210313075A1",
+            "size": 2000,
+            "title": "Systems and methods for contagious disease risk management",
+            "company": "Tyco Fire and Security GmbH",
+            "pubdate": "2020-04-02",
+            "imgurl": ""
+        },
+        {
+            "id": "US20210390807A1",
+            "size": 2000,
+            "title": "Occupant health monitoring for buildings",
+            "company": "Honeywell International Inc",
+            "pubdate": "2020-06-15",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl75rvOsSDKwnvHhBx2CqvzM3zFCINbXPV3w&s"
+        },
+        {
+            "id": "US11514633",
+            "size": 1000,
+            "title": "Systems and methods for automating conversion of drawings to indoor maps and plans",
+            "company": "Pointr Ltd",
+            "pubdate": "2022-03-10",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUJsOaQ1RwEWpW_AQvTXiKMvFs0smOf0SLpw&s"
+        },
+        {
+            "id": "US20210358202A1",
+            "size": 3000,
+            "title": "Room Labeling Drawing Interface for Activity Tracking and Detection",
+            "company": "Electronic Caregiver Inc",
+            "pubdate": "2020-05-13",
+            "imgurl": ""
+        },
+        {
+            "id": "CN116433869A",
+            "size": 3000,
+            "title": "Fragment hiding method and device in model rendering and storage medium",
+            "company": "You Can See Beijing Technology Co ltd AS",
+            "pubdate": "2023-04-14",
+            "imgurl": ""
+        },
+        {
+            "id": "US11928763B2",
+            "size": 3000,
+            "title": "Systems and methods for automating conversion of drawings to indoor maps and plans",
+            "company": "Pointr Ltd",
+            "pubdate": "2022-03-10",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUJsOaQ1RwEWpW_AQvTXiKMvFs0smOf0SLpw&s"
+        },
+        {
+            "id": "CN118521904A",
+            "size": 3000,
+            "title": "Building element identification method, device, electronic equipment and storage medium",
+            "company": "Tianhua Architecture Design Co ltd",
+            "pubdate": "2024-07-23",
+            "imgurl": ""
+        },
+        {
+            "id": "CN118644578A",
+            "size": 3000,
+            "title": "Ground marking chart generation method and system based on airport detail AIP chart",
+            "company": "Zhuhai Xiangyi Aviation Technology Co Ltd",
+            "pubdate": "2024-08-15",
+            "imgurl": ""
+        },
+        {
+            "id": "US12093615B2",
+            "size": 4000,
+            "title": "Apparatus and methods for determining and solving design problems using machine learning",
+            "company": "DTo Inc",
+            "pubdate": "2022-05-05",
+            "imgurl": "https://media.licdn.com/dms/image/v2/C4E0BAQEKRdoV9z26qQ/company-logo_200_200/company-logo_200_200/0/1673728639621?e=1741824000&v=beta&t=zL84dTZNPMytCTLPSsSr7JpK6bkbWv9HRKwD5Xj3hiU"
+        },
+        {
+            "id": "US20190311533A1",
+            "size": 4000,
+            "title": "Method and apparatus for generating 3d map of indoor space",
+            "company": "Korea University Research and Business Foundation",
+            "pubdate": "",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrum7BuptNBZySmntJrgVB1zEWwL3STRKc1Q&s"
+        },
+        {
+            "id": "US20210073433A1",
+            "size": 4000,
+            "title": "Structural design systems and methods for automatic extraction of data from 2d floor plans for retention in building information models",
+            "company": "BeamUp Ltd",
+            "pubdate": "2019-09-06",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkgwMmh8-WJz1bpB2bYH-1wwooYaGhF-YBkQ&s"
+        },
+        {
+            "id": "US7227893B1",
+            "size": 4000,
+            "title": "Application-specific object-based segmentation and recognition system",
+            "company": "XLabs Holdings LLC",
+            "pubdate": "2002-08-22",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNKbdsHyXWW_cNuh3_C3evVks6xZqNefkApA&s"
+        },
+        {
+            "id": "US6819965B2",
+            "size": 3000,
+            "title": "Electronic work instruction object oriented system and method",
+            "company": "Kimball International Inc",
+            "pubdate": "2002-09-09",
+            "imgurl": ""
+        },
+        {
+            "id": "US8260039B2",
+            "size": 3000,
+            "title": "Object model fitting using manifold constraints",
+            "company": "138 East LCD Advancements Ltd",
+            "pubdate": "2009-02-25",
+            "imgurl": ""
+        },
+        {
+            "id": "US9477904B2",
+            "size": 3000,
+            "title": "Systems and methods for refining building alignment in an aerial image",
+            "company": "Here Global BV",
+            "pubdate": "2014-01-13",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPWwkSuHxSws3WEhcLActeAED978ea969dNg&s"
+        },
+        {
+            "id": "JP6116746B1",
+            "size": 4000,
+            "title": "\n  Information processing apparatus, information processing method, and program",
+            "company": "NEXT CO.,LTD.",
+            "pubdate": "2016-11-17",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW5wEGXAnUAHLOMeKTgQKdNc7zfoZ4QOOmfA&s"
+        },
+        {
+            "id": "US10539424B2",
+            "size": 4000,
+            "title": "Navigating an indoor transit system using a mobile device",
+            "company": "Honeywell International Inc",
+            "pubdate": "2018-01-26",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl75rvOsSDKwnvHhBx2CqvzM3zFCINbXPV3w&s"
+        },
+        {
+            "id": "US11190902B1",
+            "size": 4000,
+            "title": "System and methods for large-scale automated indoor map data georeferencing",
+            "company": "Geo Comm Inc",
+            "pubdate": "2019-11-11",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWBH6s2iGgmp25S2lhyDh1ddaVxcuTOCgSVg&s"
+        },
+        {
+            "id": "US11768974B2",
+            "size": 2000,
+            "title": "Building information model (BIM) element extraction from floor plan drawings using machine learning",
+            "company": "Autodesk Inc",
+            "pubdate": "2019-11-18",
+            "imgurl": ""
+        },
+        {
+            "id": "US11310629B2",
+            "size": 3000,
+            "title": "Client-renderable element for indoor building map",
+            "company": "Microsoft Technology Licensing LLC",
+            "pubdate": "2020-06-30",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpfaGb1Iq3x4gKkiT5ZHxKeqxLR1m5ZvtrOQ&s"
+        },
+        {
+            "id": "CN111854758A",
+            "size": 4000,
+            "title": "Indoor navigation map conversion method and system based on building CAD (computer-aided design) drawing",
+            "company": "Hubei Fengdanbailu Smart Logo Technology Co Ltd",
+            "pubdate": "2020-07-03",
+            "imgurl": ""
+        },
+        {
+            "id": "US20220035973A1",
+            "size": 4000,
+            "title": "Calibrating real-world systems using simulation learning",
+            "company": "SparkCognition Inc",
+            "pubdate": "2020-07-31",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuVtFIjX-DEinBphOqeDjrnLYNr7vDM0Nyfg&s"
+        },
+        {
+            "id": "US20220138621A1",
+            "size": 4000,
+            "title": "System and method for facilitating a machine learning model rebuild",
+            "company": "Capital One Services LLC",
+            "pubdate": "2020-11-04",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTohytDtAQbArlufTp1Grzqky9JbymUU8Vk5Q&s"
+        },
+        {
+            "id": "WO2022104328A1",
+            "size": 2000,
+            "title": "Method and system for improved auto-calibration of a robotic cell",
+            "company": "Bright Machines, Inc.",
+            "pubdate": "2021-11-09",
+            "imgurl": ""
+        },
+        {
+            "id": "US20230157506A1",
+            "size": 3000,
+            "title": "Trajectory-based localization and mapping",
+            "company": "iRobot Corp",
+            "pubdate": "",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfI6OAOGg7CEnx9W8gmYVLoxeKFlCuu0GdyQ&s"
+        },
+        {
+            "id": "US11514633B1",
+            "size": 6000,
+            "title": "Systems and methods for automating conversion of drawings to indoor maps and plans",
+            "company": "Pointr Ltd",
+            "pubdate": "2022-03-10",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUJsOaQ1RwEWpW_AQvTXiKMvFs0smOf0SLpw&s"
+        },
+        {
+            "id": "US11716616",
+            "size": 1000,
+            "title": "Systems and methods for location enabled search and secure authentication",
+            "company": "Pointr Ltd",
+            "pubdate": "2019-05-06",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUJsOaQ1RwEWpW_AQvTXiKMvFs0smOf0SLpw&s"
+        },
+        {
+            "id": "US11267439B2",
+            "size": 2000,
+            "title": "Activation of valet mode for vehicles",
+            "company": "Ford Global Technologies LLC",
+            "pubdate": "2019-03-08",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzaHRbxvz5XGQZ3jbAqXBYzQi10ageJTWjzEOC_9juqYGk2egJHbFL9DQNo1nCiWZs_1U&usqp=CAU"
+        },
+        {
+            "id": "US20210011787A1",
+            "size": 2000,
+            "title": "Technologies for scaling inter-kernel technologies for accelerator device kernels",
+            "company": "Intel Corp",
+            "pubdate": "2020-09-25",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS__VV_GQ8VE6OeBdlX1SRJJQv2EaalVJ9Ng&s"
+        },
+        {
+            "id": "US11350236B2",
+            "size": 2000,
+            "title": "Systems and methods for obtaining a ride in a ride-hail vehicle",
+            "company": "Ford Global Technologies LLC",
+            "pubdate": "2020-10-15",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzaHRbxvz5XGQZ3jbAqXBYzQi10ageJTWjzEOC_9juqYGk2egJHbFL9DQNo1nCiWZs_1U&usqp=CAU"
+        },
+        {
+            "id": "US20230044015A1",
+            "size": 2000,
+            "title": "Systems and methods for improving accuracy of passenger pick-up location for autonomous vehicles",
+            "company": "GM Cruise Holdings LLC",
+            "pubdate": "2021-08-05",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0sLh052InwT6hp_qZN8pVxEh6he2u7VmhZA&s"
+        },
+        {
+            "id": "CN113890658B",
+            "size": 2000,
+            "title": "Safe broadcasting method and system based on android machine system",
+            "company": "Sichuan Cric Technology Co ltd",
+            "pubdate": "2021-10-20",
+            "imgurl": ""
+        },
+        {
+            "id": "US8086400B2",
+            "size": 2000,
+            "title": "System and method for monitoring the security of participants in a rideshare environment",
+            "company": "Cortland Capital Market Services LLC",
+            "pubdate": "2007-05-11",
+            "imgurl": "https://media.licdn.com/dms/image/v2/C560BAQFLq3Y4AEuyMg/company-logo_200_200/company-logo_200_200/0/1631418758482/cortland_capital_market_services_llc_logo?e=2147483647&v=beta&t=DPhg-RCN-MfQALiqgNleIcOePT6gl9hI-uksxAGksKs"
+        },
+        {
+            "id": "US20120239452A1",
+            "size": 2000,
+            "title": "Fleet Management Systems and Processes",
+            "company": "Ridecell Inc",
+            "pubdate": "2011-03-17",
+            "imgurl": ""
+        },
+        {
+            "id": "US20140038640A1",
+            "size": 2000,
+            "title": "System and method for associating devices moving along the same travel path",
+            "company": "Bridgestone Mobility Solutions BV",
+            "pubdate": "2011-04-19",
+            "imgurl": ""
+        },
+        {
+            "id": "US20160125737A1",
+            "size": 2000,
+            "title": "Parking information updating method and electronic device performing the same",
+            "company": "Pegatron Corp",
+            "pubdate": "2014-10-31",
+            "imgurl": ""
+        },
+        {
+            "id": "US20160171574A1",
+            "size": 2000,
+            "title": "Method And System For Ride Shares Involving Hierarchical Driver Referrals",
+            "company": "Yur Drivers Network Inc",
+            "pubdate": "2014-12-11",
+            "imgurl": ""
+        },
+        {
+            "id": "US20160232719A1",
+            "size": 2000,
+            "title": "Programmatically determining location information in connection with a transport service",
+            "company": "Cortland Capital Market Services LLC",
+            "pubdate": "2015-02-05",
+            "imgurl": "https://media.licdn.com/dms/image/v2/C560BAQFLq3Y4AEuyMg/company-logo_200_200/company-logo_200_200/0/1631418758482/cortland_capital_market_services_llc_logo?e=2147483647&v=beta&t=DPhg-RCN-MfQALiqgNleIcOePT6gl9hI-uksxAGksKs"
+        },
+        {
+            "id": "US9723469B2",
+            "size": 2000,
+            "title": "Trip anomaly detection system",
+            "company": "Cortland Capital Market Services LLC",
+            "pubdate": "2015-06-17",
+            "imgurl": "https://media.licdn.com/dms/image/v2/C560BAQFLq3Y4AEuyMg/company-logo_200_200/company-logo_200_200/0/1631418758482/cortland_capital_market_services_llc_logo?e=2147483647&v=beta&t=DPhg-RCN-MfQALiqgNleIcOePT6gl9hI-uksxAGksKs"
+        },
+        {
+            "id": "US20170127215A1",
+            "size": 2000,
+            "title": "Rules-Based Ride Security",
+            "company": "Zemcar Inc",
+            "pubdate": "2015-10-30",
+            "imgurl": ""
+        },
+        {
+            "id": "US20170262770A1",
+            "size": 2000,
+            "title": "Cascaded boosted predictive models",
+            "company": "Cortland Capital Market Services LLC",
+            "pubdate": "2016-03-11",
+            "imgurl": "https://media.licdn.com/dms/image/v2/C560BAQFLq3Y4AEuyMg/company-logo_200_200/company-logo_200_200/0/1631418758482/cortland_capital_market_services_llc_logo?e=2147483647&v=beta&t=DPhg-RCN-MfQALiqgNleIcOePT6gl9hI-uksxAGksKs"
+        },
+        {
+            "id": "US20180060778A1",
+            "size": 2000,
+            "title": "Driver location prediction for a transportation service",
+            "company": "Cortland Capital Market Services LLC",
+            "pubdate": "2016-08-31",
+            "imgurl": "https://media.licdn.com/dms/image/v2/C560BAQFLq3Y4AEuyMg/company-logo_200_200/company-logo_200_200/0/1631418758482/cortland_capital_market_services_llc_logo?e=2147483647&v=beta&t=DPhg-RCN-MfQALiqgNleIcOePT6gl9hI-uksxAGksKs"
+        },
+        {
+            "id": "US20180068505A1",
+            "size": 2000,
+            "title": "Wireless Passenger Proximity Detection System for Autonomous Vehicles",
+            "company": "Denso International America Inc",
+            "pubdate": "2016-09-06",
+            "imgurl": ""
+        },
+        {
+            "id": "US20190316920A1",
+            "size": 2000,
+            "title": "Route search system, route search apparatus, route search method, and computer program",
+            "company": "Sumitomo Electric Industries Ltd",
+            "pubdate": "2016-12-13",
+            "imgurl": ""
+        },
+        {
+            "id": "US20180196417A1",
+            "size": 2000,
+            "title": "Location Signaling with Respect to an Autonomous Vehicle and a Rider",
+            "company": "Motional AD LLC",
+            "pubdate": "2017-01-09",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHR-tGc62UjEOYZ2nJ3T78XOvwZXbFzFWZww&s"
+        },
+        {
+            "id": "US20200334631A1",
+            "size": 2000,
+            "title": "Tracking system and method for monitoring and ensuring security of shipments",
+            "company": "Overhaul Group Inc",
+            "pubdate": "2017-08-03",
+            "imgurl": ""
+        },
+        {
+            "id": "US10423834B2",
+            "size": 2000,
+            "title": "Augmented reality assisted pickup",
+            "company": "Uber Technologies Inc",
+            "pubdate": "2017-08-31",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5bw9vJE9ekZFZsbWVHalJaX8__w807Bx-0Q&s"
+        },
+        {
+            "id": "US10508925B2",
+            "size": 2000,
+            "title": "Pickup location selection and augmented reality navigation",
+            "company": "Uber Technologies Inc",
+            "pubdate": "2017-08-31",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5bw9vJE9ekZFZsbWVHalJaX8__w807Bx-0Q&s"
+        },
+        {
+            "id": "US11067410B2",
+            "size": 2000,
+            "title": "First-person perspective view",
+            "company": "Uber Technologies Inc",
+            "pubdate": "2017-09-07",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5bw9vJE9ekZFZsbWVHalJaX8__w807Bx-0Q&s"
+        },
+        {
+            "id": "US20200349666A1",
+            "size": 2000,
+            "title": "Enhanced vehicle sharing system",
+            "company": "Xirgo Technologies LLC",
+            "pubdate": "2018-01-31",
+            "imgurl": ""
+        },
+        {
+            "id": "US20200005557A1",
+            "size": 2000,
+            "title": "Short range communications for specific device identification during multi-device proximity",
+            "company": "PayPal Inc",
+            "pubdate": "2018-06-28",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz-kxLXwUrxWeUlYcwJoBWDns90QWCJC1BGA&s"
+        },
+        {
+            "id": "US20200013287A1",
+            "size": 2000,
+            "title": "Information processing apparatus and information processing method",
+            "company": "Toyota Motor Corp",
+            "pubdate": "2018-07-06",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSddeOT3z1Knwf-YtVWZbfjQObS7t8bBE1wmQ&s"
+        },
+        {
+            "id": "US20210258308A1",
+            "size": 2000,
+            "title": "Out-of-band authentication to access web-service with indication of physical access to client device",
+            "company": "HYPR Corp",
+            "pubdate": "2018-08-21",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpiWcO5gDlzE6BQQJlKlzYeBjRX0rRLPur9g&s"
+        },
+        {
+            "id": "US11100680B2",
+            "size": 2000,
+            "title": "AR/VR/MR ride sharing assistant",
+            "company": "Toyota Motor Corp",
+            "pubdate": "2018-11-08",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSddeOT3z1Knwf-YtVWZbfjQObS7t8bBE1wmQ&s"
+        },
+        {
+            "id": "US10501055B1",
+            "size": 2000,
+            "title": "Passenger and vehicle mutual authentication",
+            "company": "Beijing Voyager Technology Co Ltd",
+            "pubdate": "2018-11-15",
+            "imgurl": ""
+        },
+        {
+            "id": "US10740615B2",
+            "size": 2000,
+            "title": "Mutual augmented reality experience for users in a network system",
+            "company": "Uber Technologies Inc",
+            "pubdate": "2018-11-20",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5bw9vJE9ekZFZsbWVHalJaX8__w807Bx-0Q&s"
+        },
+        {
+            "id": "US20210056477A1",
+            "size": 2000,
+            "title": "Ride-sharing safety system",
+            "company": "Toyota Motor North America Inc",
+            "pubdate": "2019-08-22",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSddeOT3z1Knwf-YtVWZbfjQObS7t8bBE1wmQ&s"
+        },
+        {
+            "id": "US20210333122A1",
+            "size": 2000,
+            "title": "Biasing reroutes to a set route",
+            "company": "Uber Technologies Inc",
+            "pubdate": "2020-04-23",
+            "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5bw9vJE9ekZFZsbWVHalJaX8__w807Bx-0Q&s"
+        },
+        {
+            "id": "US20220353079A1",
+            "size": 2000,
+            "title": "Integrating and detecting visual data security token in displayed data via graphics processing circuitry using a frame buffer",
+            "company": "Mobeus Industries Inc",
+            "pubdate": "2021-04-30",
+            "imgurl": ""
+        },
+        {
+            "id": "US12146759B1",
+            "size": 1000,
+            "title": "",
+            "company": "",
+            "pubdate": "",
+            "imgurl": ""
+        },
+        {
+            "id": "CN114641753A",
+            "size": 1000,
+            "title": "",
+            "company": "",
+            "pubdate": "",
+            "imgurl": ""
+        },
+        {
+            "id": "IL302824A",
+            "size": 1000,
+            "title": "",
+            "company": "",
+            "pubdate": "",
+            "imgurl": ""
+        },
+        {
+            "id": "US12125137B2",
+            "size": 1000,
+            "title": "",
+            "company": "",
+            "pubdate": "",
+            "imgurl": ""
+        },
+        {
+            "id": "CN116433869B",
+            "size": 1000,
+            "title": "",
+            "company": "",
+            "pubdate": "",
+            "imgurl": ""
+        },
+        {
+            "id": "CN118521904B",
+            "size": 1000,
+            "title": "",
+            "company": "",
+            "pubdate": "",
+            "imgurl": ""
+        },
+        {
+            "id": "CN118644578B",
+            "size": 1000,
+            "title": "",
+            "company": "",
+            "pubdate": "",
+            "imgurl": ""
+        },
+        {
+            "id": "US20040049307A1",
+            "size": 1000,
+            "title": "",
+            "company": "",
+            "pubdate": "",
+            "imgurl": ""
+        },
+        {
+            "id": "US20100214290A1",
+            "size": 1000,
+            "title": "",
+            "company": "",
+            "pubdate": "",
+            "imgurl": ""
+        },
+        {
+            "id": "US20150199557A1",
+            "size": 1000,
+            "title": "",
+            "company": "",
+            "pubdate": "",
+            "imgurl": ""
+        },
+        {
+            "id": "US20210073435A1",
+            "size": 1000,
+            "title": "",
+            "company": "",
+            "pubdate": "",
+            "imgurl": ""
+        },
+        {
+            "id": "US20210150088A1",
+            "size": 1000,
+            "title": "",
+            "company": "",
+            "pubdate": "",
+            "imgurl": ""
+        },
+        {
+            "id": "US20210409903A1",
+            "size": 1000,
+            "title": "",
+            "company": "",
+            "pubdate": "",
+            "imgurl": ""
+        },
+        {
+            "id": "US20220147026A1",
+            "size": 1000,
+            "title": "",
+            "company": "",
+            "pubdate": "",
+            "imgurl": ""
+        },
+        {
+            "id": "US11657555B1",
+            "size": 2000,
+            "title": "",
+            "company": "",
+            "pubdate": "",
+            "imgurl": ""
+        },
+        {
+            "id": "US11769287B1",
+            "size": 1000,
+            "title": "",
+            "company": "",
+            "pubdate": "",
+            "imgurl": ""
+        },
+        {
+            "id": "US20230306664A1",
+            "size": 1000,
+            "title": "",
+            "company": "",
+            "pubdate": "",
+            "imgurl": ""
+        },
+        {
+            "id": "US10834528B2",
+            "size": 1000,
+            "title": "",
+            "company": "",
+            "pubdate": "",
+            "imgurl": ""
+        },
+        {
+            "id": "US10324197B1",
+            "size": 1000,
+            "title": "",
+            "company": "",
+            "pubdate": "",
+            "imgurl": ""
+        },
+        {
+            "id": "US11029415B2",
+            "size": 1000,
+            "title": "",
+            "company": "",
+            "pubdate": "",
+            "imgurl": ""
+        },
+        {
+            "id": "US11169280B2",
+            "size": 1000,
+            "title": "",
+            "company": "",
+            "pubdate": "",
+            "imgurl": ""
+        },
+        {
+            "id": "US10378907B1",
+            "size": 1000,
+            "title": "",
+            "company": "",
+            "pubdate": "",
+            "imgurl": ""
+        },
+        {
+            "id": "US10883833B2",
+            "size": 1000,
+            "title": "",
+            "company": "",
+            "pubdate": "",
+            "imgurl": ""
+        }
+    ],
+    "links": [
+        {
+            "source": "US20190360812A1",
+            "target": "US10324197"
+        },
+        {
+            "source": "CN110779520A",
+            "target": "US10324197"
+        },
+        {
+            "source": "US11959763B1",
+            "target": "US10324197"
+        },
+        {
+            "source": "US10324197",
+            "target": "US20070250261A1"
+        },
+        {
+            "source": "US10324197",
+            "target": "US20090254276A1"
+        },
+        {
+            "source": "US10324197",
+            "target": "US8649930B2"
+        },
+        {
+            "source": "US10324197",
+            "target": "US20130311134A1"
+        },
+        {
+            "source": "US10324197",
+            "target": "US20140288822A1"
+        },
+        {
+            "source": "US10324197",
+            "target": "US20150350849A1"
+        },
+        {
+            "source": "US10324197",
+            "target": "US20160069690A1"
+        },
+        {
+            "source": "US10324197",
+            "target": "EP2025178A2"
+        },
+        {
+            "source": "US10324197",
+            "target": "US8706137B2"
+        },
+        {
+            "source": "US10324197",
+            "target": "US9014974B2"
+        },
+        {
+            "source": "US10324197",
+            "target": "CN105737826B"
+        },
+        {
+            "source": "US10324197",
+            "target": "CN106441302B"
+        },
+        {
+            "source": "US11959763B1",
+            "target": "US11029415"
+        },
+        {
+            "source": "WO2019226982A1",
+            "target": "US11029415"
+        },
+        {
+            "source": "CN110779520B",
+            "target": "US11029415"
+        },
+        {
+            "source": "US11029415",
+            "target": "US20070250261A1"
+        },
+        {
+            "source": "US11029415",
+            "target": "US8688375B2"
+        },
+        {
+            "source": "US11029415",
+            "target": "US20090254276A1"
+        },
+        {
+            "source": "US11029415",
+            "target": "US8649930B2"
+        },
+        {
+            "source": "US11029415",
+            "target": "US20130035110A1"
+        },
+        {
+            "source": "US11029415",
+            "target": "US20130311134A1"
+        },
+        {
+            "source": "US11029415",
+            "target": "US20140107919A1"
+        },
+        {
+            "source": "US11029415",
+            "target": "US20140288822A1"
+        },
+        {
+            "source": "US11029415",
+            "target": "US20150350849A1"
+        },
+        {
+            "source": "US11029415",
+            "target": "US20160069690A1"
+        },
+        {
+            "source": "US11029415",
+            "target": "CN105737826A"
+        },
+        {
+            "source": "US11029415",
+            "target": "CN106441302A"
+        },
+        {
+            "source": "US20230143631A1",
+            "target": "US11169280"
+        },
+        {
+            "source": "US11959763B1",
+            "target": "US11169280"
+        },
+        {
+            "source": "US12104425B2",
+            "target": "US11169280"
+        },
+        {
+            "source": "US11512518B2",
+            "target": "US11169280"
+        },
+        {
+            "source": "US11169280",
+            "target": "US20060125644A1"
+        },
+        {
+            "source": "US11169280",
+            "target": "US20070250261A1"
+        },
+        {
+            "source": "US11169280",
+            "target": "US8688375B2"
+        },
+        {
+            "source": "US11169280",
+            "target": "US20090254276A1"
+        },
+        {
+            "source": "US11169280",
+            "target": "US8649930B2"
+        },
+        {
+            "source": "US11169280",
+            "target": "US20110172906A1"
+        },
+        {
+            "source": "US11169280",
+            "target": "US20130035110A1"
+        },
+        {
+            "source": "US11169280",
+            "target": "US20130311134A1"
+        },
+        {
+            "source": "US11169280",
+            "target": "US20140107919A1"
+        },
+        {
+            "source": "US11169280",
+            "target": "US20140288822A1"
+        },
+        {
+            "source": "US11169280",
+            "target": "US20150350849A1"
+        },
+        {
+            "source": "US11169280",
+            "target": "US20160069690A1"
+        },
+        {
+            "source": "US11169280",
+            "target": "CN105737826A"
+        },
+        {
+            "source": "US11169280",
+            "target": "CN106441302A"
+        },
+        {
+            "source": "US20230168333A1",
+            "target": "US10378907"
+        },
+        {
+            "source": "US11959763B1",
+            "target": "US10378907"
+        },
+        {
+            "source": "WO2021040824A1",
+            "target": "US10378907"
+        },
+        {
+            "source": "US10378907",
+            "target": "US20160014713A1"
+        },
+        {
+            "source": "US10378907",
+            "target": "US20120203453A1"
+        },
+        {
+            "source": "US10378907",
+            "target": "US20150230055A1"
+        },
+        {
+            "source": "US10378907",
+            "target": "US20150334678A1"
+        },
+        {
+            "source": "US10378907",
+            "target": "US20180356492A1"
+        },
+        {
+            "source": "US10378907",
+            "target": "US20170153110A1"
+        },
+        {
+            "source": "US10378907",
+            "target": "US9820100B1"
+        },
+        {
+            "source": "US10378907",
+            "target": "US9374678B2"
+        },
+        {
+            "source": "US10378907",
+            "target": "CN104501796B"
+        },
+        {
+            "source": "US10378907",
+            "target": "CN108317996B"
+        },
+        {
+            "source": "US11959763B1",
+            "target": "US10883833"
+        },
+        {
+            "source": "WO2021040824A1",
+            "target": "US10883833"
+        },
+        {
+            "source": "US20230168333A1",
+            "target": "US10883833"
+        },
+        {
+            "source": "US10883833",
+            "target": "US20160014713A1"
+        },
+        {
+            "source": "US10883833",
+            "target": "US20120203453A1"
+        },
+        {
+            "source": "US10883833",
+            "target": "US20150230055A1"
+        },
+        {
+            "source": "US10883833",
+            "target": "US20150249907A1"
+        },
+        {
+            "source": "US10883833",
+            "target": "US20150334678A1"
+        },
+        {
+            "source": "US10883833",
+            "target": "CN104501796A"
+        },
+        {
+            "source": "US10883833",
+            "target": "US20180356492A1"
+        },
+        {
+            "source": "US10883833",
+            "target": "EP3321629A1"
+        },
+        {
+            "source": "US10883833",
+            "target": "US20170153110A1"
+        },
+        {
+            "source": "US10883833",
+            "target": "US9820100B1"
+        },
+        {
+            "source": "WO2021123512A1",
+            "target": "US10511971"
+        },
+        {
+            "source": "US11109187B2",
+            "target": "US10511971"
+        },
+        {
+            "source": "US20220108231A1",
+            "target": "US10511971"
+        },
+        {
+            "source": "US20230003535A1",
+            "target": "US10511971"
+        },
+        {
+            "source": "US11796330B2",
+            "target": "US10511971"
+        },
+        {
+            "source": "US20200380533A1",
+            "target": "US10511971"
+        },
+        {
+            "source": "US11761770B2",
+            "target": "US10511971"
+        },
+        {
+            "source": "EP3859372A1",
+            "target": "US10511971"
+        },
+        {
+            "source": "US10511971",
+            "target": "US20060155460A1"
+        },
+        {
+            "source": "US10511971",
+            "target": "US20080277183A1"
+        },
+        {
+            "source": "US10511971",
+            "target": "US20090172009A1"
+        },
+        {
+            "source": "US10511971",
+            "target": "US20130256396A1"
+        },
+        {
+            "source": "US10511971",
+            "target": "US20160027079A1"
+        },
+        {
+            "source": "US10511971",
+            "target": "US20150254581A1"
+        },
+        {
+            "source": "US10511971",
+            "target": "US20190228643A1"
+        },
+        {
+            "source": "US10511971",
+            "target": "US9760702B1"
+        },
+        {
+            "source": "US10511971",
+            "target": "US20160321771A1"
+        },
+        {
+            "source": "US10511971",
+            "target": "US10204528B2"
+        },
+        {
+            "source": "US10511971",
+            "target": "US20170115125A1"
+        },
+        {
+            "source": "US10511971",
+            "target": "US20170310679A1"
+        },
+        {
+            "source": "US10511971",
+            "target": "US10192387B2"
+        },
+        {
+            "source": "US10511971",
+            "target": "US20180196416A1"
+        },
+        {
+            "source": "US10511971",
+            "target": "US9904375B1"
+        },
+        {
+            "source": "US10511971",
+            "target": "US20190017839A1"
+        },
+        {
+            "source": "US10511971",
+            "target": "US9965960B1"
+        },
+        {
+            "source": "US10511971",
+            "target": "US20190073676A1"
+        },
+        {
+            "source": "US10511971",
+            "target": "US20190096021A1"
+        },
+        {
+            "source": "US10511971",
+            "target": "US20190114638A1"
+        },
+        {
+            "source": "US10511971",
+            "target": "US10255739B1"
+        },
+        {
+            "source": "US10511971",
+            "target": "US20190297450A1"
+        },
+        {
+            "source": "US10511971",
+            "target": "US20190259182A1"
+        },
+        {
+            "source": "US10511971",
+            "target": "US20190286928A1"
+        },
+        {
+            "source": "US10511971",
+            "target": "US11017428B2"
+        },
+        {
+            "source": "US10511971",
+            "target": "US20120041675A1"
+        },
+        {
+            "source": "US10511971",
+            "target": "DE102014224481B4"
+        },
+        {
+            "source": "US10511971",
+            "target": "US9612123B1"
+        },
+        {
+            "source": "US10511971",
+            "target": "US10019621B2"
+        },
+        {
+            "source": "US10511971",
+            "target": "US11574262B2"
+        },
+        {
+            "source": "US10511971",
+            "target": "US10667076B2"
+        },
+        {
+            "source": "US10511971",
+            "target": "US10809081B1"
+        },
+        {
+            "source": "US10511971",
+            "target": "US10825121B2"
+        },
+        {
+            "source": "US10511971",
+            "target": "US10629012B1"
+        },
+        {
+            "source": "US10511971",
+            "target": "US11269353B2"
+        },
+        {
+            "source": "US10511971",
+            "target": "US10917756B2"
+        },
+        {
+            "source": "US10511971",
+            "target": "US10791536B1"
+        },
+        {
+            "source": "US20200380533A1",
+            "target": "US11297497"
+        },
+        {
+            "source": "US11109187B2",
+            "target": "US11297497"
+        },
+        {
+            "source": "US11761770B2",
+            "target": "US11297497"
+        },
+        {
+            "source": "WO2021123512A1",
+            "target": "US11297497"
+        },
+        {
+            "source": "EP3859372A1",
+            "target": "US11297497"
+        },
+        {
+            "source": "US11796330B2",
+            "target": "US11297497"
+        },
+        {
+            "source": "JP7267499B2",
+            "target": "US11297497"
+        },
+        {
+            "source": "JP7409277B2",
+            "target": "US11297497"
+        },
+        {
+            "source": "US11297497",
+            "target": "US20060155460A1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US20080277183A1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US20090172009A1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US20180253757A1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US20120041675A1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US20130256396A1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US20160027079A1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US20150254581A1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US20190228643A1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US9760702B1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US20170259786A1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US20160321771A1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US10204528B2"
+        },
+        {
+            "source": "US11297497",
+            "target": "US20170115125A1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US9612123B1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US20170310679A1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US20180075287A1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US10192387B2"
+        },
+        {
+            "source": "US11297497",
+            "target": "US20180189713A1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US20180196416A1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US9904375B1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US20190017839A1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US9965960B1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US20190073676A1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US20190096021A1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US20190114638A1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US10255739B1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US20190297450A1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US20190259182A1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US20190286928A1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US20190327576A1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US10809081B1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US20200134763A1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US10629012B1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US20200310461A1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US20200351619A1"
+        },
+        {
+            "source": "US11297497",
+            "target": "US10791536B1"
+        },
+        {
+            "source": "US11181608B2",
+            "target": "US10834528"
+        },
+        {
+            "source": "US11959763B1",
+            "target": "US10834528"
+        },
+        {
+            "source": "EP3314289B1",
+            "target": "US10834528"
+        },
+        {
+            "source": "US10859663B2",
+            "target": "US10834528"
+        },
+        {
+            "source": "DE102017006849A1",
+            "target": "US10834528"
+        },
+        {
+            "source": "US9955307B1",
+            "target": "US10834528"
+        },
+        {
+            "source": "DE102018203440A1",
+            "target": "US10834528"
+        },
+        {
+            "source": "CN112616117B",
+            "target": "US10834528"
+        },
+        {
+            "source": "US10887860B1",
+            "target": "US10834528"
+        },
+        {
+            "source": "CN114727220B",
+            "target": "US10834528"
+        },
+        {
+            "source": "DE102021200513A1",
+            "target": "US10834528"
+        },
+        {
+            "source": "US10834528",
+            "target": "US20050227703A1"
+        },
+        {
+            "source": "US10834528",
+            "target": "US20080280624A1"
+        },
+        {
+            "source": "US10834528",
+            "target": "US20060240840A1"
+        },
+        {
+            "source": "US10834528",
+            "target": "US20100109864A1"
+        },
+        {
+            "source": "US10834528",
+            "target": "US20130260798A1"
+        },
+        {
+            "source": "US10834528",
+            "target": "US20130053059A1"
+        },
+        {
+            "source": "US10834528",
+            "target": "US20140141784A1"
+        },
+        {
+            "source": "US10834528",
+            "target": "US20140155086A1"
+        },
+        {
+            "source": "US10834528",
+            "target": "US20140228044A1"
+        },
+        {
+            "source": "US10834528",
+            "target": "US20150185023A1"
+        },
+        {
+            "source": "US10834528",
+            "target": "US20150249907A1"
+        },
+        {
+            "source": "US10834528",
+            "target": "US20160094947A1"
+        },
+        {
+            "source": "US10834528",
+            "target": "US20160146614A1"
+        },
+        {
+            "source": "US10834528",
+            "target": "US20160286345A1"
+        },
+        {
+            "source": "US10834528",
+            "target": "US9204250B2"
+        },
+        {
+            "source": "US20220270760A1",
+            "target": "US11356810"
+        },
+        {
+            "source": "US20220383722A1",
+            "target": "US11356810"
+        },
+        {
+            "source": "US20230135554A1",
+            "target": "US11356810"
+        },
+        {
+            "source": "US11356810",
+            "target": "US8405503B2"
+        },
+        {
+            "source": "US11356810",
+            "target": "US10198779B2"
+        },
+        {
+            "source": "US11356810",
+            "target": "US20210313075A1"
+        },
+        {
+            "source": "US11356810",
+            "target": "US20210390807A1"
+        },
+        {
+            "source": "US20210358202A1",
+            "target": "US11514633"
+        },
+        {
+            "source": "CN116433869A",
+            "target": "US11514633"
+        },
+        {
+            "source": "US11928763B2",
+            "target": "US11514633"
+        },
+        {
+            "source": "US11959763B1",
+            "target": "US11514633"
+        },
+        {
+            "source": "CN118521904A",
+            "target": "US11514633"
+        },
+        {
+            "source": "CN118644578A",
+            "target": "US11514633"
+        },
+        {
+            "source": "US12093615B2",
+            "target": "US11514633"
+        },
+        {
+            "source": "US11514633",
+            "target": "US20190311533A1"
+        },
+        {
+            "source": "US11514633",
+            "target": "US20210073433A1"
+        },
+        {
+            "source": "US11514633",
+            "target": "US7227893B1"
+        },
+        {
+            "source": "US11514633",
+            "target": "US6819965B2"
+        },
+        {
+            "source": "US11514633",
+            "target": "US8260039B2"
+        },
+        {
+            "source": "US11514633",
+            "target": "US9477904B2"
+        },
+        {
+            "source": "US11514633",
+            "target": "JP6116746B1"
+        },
+        {
+            "source": "US11514633",
+            "target": "US10539424B2"
+        },
+        {
+            "source": "US11514633",
+            "target": "US11190902B1"
+        },
+        {
+            "source": "US11514633",
+            "target": "US11768974B2"
+        },
+        {
+            "source": "US11514633",
+            "target": "US11310629B2"
+        },
+        {
+            "source": "US11514633",
+            "target": "CN111854758A"
+        },
+        {
+            "source": "US11514633",
+            "target": "US20220035973A1"
+        },
+        {
+            "source": "US11514633",
+            "target": "US20220138621A1"
+        },
+        {
+            "source": "US11514633",
+            "target": "WO2022104328A1"
+        },
+        {
+            "source": "US11514633",
+            "target": "US20230157506A1"
+        },
+        {
+            "source": "US11514633",
+            "target": "US11514633B1"
+        },
+        {
+            "source": "US11267439B2",
+            "target": "US11716616"
+        },
+        {
+            "source": "EP3859372A1",
+            "target": "US11716616"
+        },
+        {
+            "source": "US20210011787A1",
+            "target": "US11716616"
+        },
+        {
+            "source": "US11350236B2",
+            "target": "US11716616"
+        },
+        {
+            "source": "US20230044015A1",
+            "target": "US11716616"
+        },
+        {
+            "source": "CN113890658B",
+            "target": "US11716616"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20060155460A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20080277183A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US8086400B2"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20090172009A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20180253757A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20120041675A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20120239452A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20140038640A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20130256396A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20160027079A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20150254581A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20190228643A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US9760702B1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20160125737A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20170259786A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20160171574A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20160232719A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20160321771A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US9723469B2"
+        },
+        {
+            "source": "US11716616",
+            "target": "US10204528B2"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20170115125A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20170127215A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US9612123B1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20170262770A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20170310679A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20180060778A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20180068505A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20180075287A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US10192387B2"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20190316920A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20180189713A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20180196416A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20180196417A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US9904375B1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20190017839A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20200334631A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US9965960B1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US10423834B2"
+        },
+        {
+            "source": "US11716616",
+            "target": "US10508925B2"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20190073676A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US11067410B2"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20190096021A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20190114638A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US10255739B1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20190297450A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20200349666A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20190259182A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20190286928A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20190327576A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US10809081B1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20200005557A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20200013287A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20210258308A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20200134763A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US11100680B2"
+        },
+        {
+            "source": "US11716616",
+            "target": "US10629012B1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US10501055B1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US10740615B2"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20200310461A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20200351619A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US10791536B1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20210056477A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20210333122A1"
+        },
+        {
+            "source": "US11716616",
+            "target": "US20220353079A1"
+        },
+        {
+            "source": "US20210358202A1",
+            "target": "US11514633B1"
+        },
+        {
+            "source": "CN116433869A",
+            "target": "US11514633B1"
+        },
+        {
+            "source": "US11928763B2",
+            "target": "US11514633B1"
+        },
+        {
+            "source": "US11959763B1",
+            "target": "US11514633B1"
+        },
+        {
+            "source": "CN118521904A",
+            "target": "US11514633B1"
+        },
+        {
+            "source": "CN118644578A",
+            "target": "US11514633B1"
+        },
+        {
+            "source": "US12146759B1",
+            "target": "US11514633B1"
+        },
+        {
+            "source": "US12093615B2",
+            "target": "US11514633B1"
+        },
+        {
+            "source": "US11514633B1",
+            "target": "US20190311533A1"
+        },
+        {
+            "source": "US11514633B1",
+            "target": "US20210073433A1"
+        },
+        {
+            "source": "US11514633B1",
+            "target": "US7227893B1"
+        },
+        {
+            "source": "US11514633B1",
+            "target": "US6819965B2"
+        },
+        {
+            "source": "US11514633B1",
+            "target": "US8260039B2"
+        },
+        {
+            "source": "US11514633B1",
+            "target": "US9477904B2"
+        },
+        {
+            "source": "US11514633B1",
+            "target": "JP6116746B1"
+        },
+        {
+            "source": "US11514633B1",
+            "target": "US10539424B2"
+        },
+        {
+            "source": "US11514633B1",
+            "target": "US11190902B1"
+        },
+        {
+            "source": "US11514633B1",
+            "target": "CN114641753A"
+        },
+        {
+            "source": "US11514633B1",
+            "target": "US11310629B2"
+        },
+        {
+            "source": "US11514633B1",
+            "target": "CN111854758A"
+        },
+        {
+            "source": "US11514633B1",
+            "target": "US20220035973A1"
+        },
+        {
+            "source": "US11514633B1",
+            "target": "US20220138621A1"
+        },
+        {
+            "source": "US11514633B1",
+            "target": "IL302824A"
+        },
+        {
+            "source": "US11514633B1",
+            "target": "US11514633B1"
+        },
+        {
+            "source": "US12125137B2",
+            "target": "US11928763B2"
+        },
+        {
+            "source": "US11514633B1",
+            "target": "US11928763B2"
+        },
+        {
+            "source": "US12093615B2",
+            "target": "US11928763B2"
+        },
+        {
+            "source": "CN116433869B",
+            "target": "US11928763B2"
+        },
+        {
+            "source": "US11959763B1",
+            "target": "US11928763B2"
+        },
+        {
+            "source": "CN118521904B",
+            "target": "US11928763B2"
+        },
+        {
+            "source": "CN118644578B",
+            "target": "US11928763B2"
+        },
+        {
+            "source": "US11928763B2",
+            "target": "US7227893B1"
+        },
+        {
+            "source": "US11928763B2",
+            "target": "US20040049307A1"
+        },
+        {
+            "source": "US11928763B2",
+            "target": "US20100214290A1"
+        },
+        {
+            "source": "US11928763B2",
+            "target": "US20150199557A1"
+        },
+        {
+            "source": "US11928763B2",
+            "target": "US20190311533A1"
+        },
+        {
+            "source": "US11928763B2",
+            "target": "US20210073433A1"
+        },
+        {
+            "source": "US11928763B2",
+            "target": "US20210073435A1"
+        },
+        {
+            "source": "US11928763B2",
+            "target": "US11190902B1"
+        },
+        {
+            "source": "US11928763B2",
+            "target": "US20210150088A1"
+        },
+        {
+            "source": "US11928763B2",
+            "target": "US20210409903A1"
+        },
+        {
+            "source": "US11928763B2",
+            "target": "CN111854758A"
+        },
+        {
+            "source": "US11928763B2",
+            "target": "US20220035973A1"
+        },
+        {
+            "source": "US11928763B2",
+            "target": "US20220138621A1"
+        },
+        {
+            "source": "US11928763B2",
+            "target": "US20220147026A1"
+        },
+        {
+            "source": "US11928763B2",
+            "target": "US20230157506A1"
+        },
+        {
+            "source": "US11928763B2",
+            "target": "US11514633B1"
+        },
+        {
+            "source": "US11928763B2",
+            "target": "US11657555B1"
+        },
+        {
+            "source": "US11928763B2",
+            "target": "US11769287B1"
+        },
+        {
+            "source": "US11928763B2",
+            "target": "US20230306664A1"
+        },
+        {
+            "source": "US11928763B2",
+            "target": "JP6116746B1"
+        },
+        {
+            "source": "US11928763B2",
+            "target": "US10539424B2"
+        },
+        {
+            "source": "US11959763B1",
+            "target": "US10834528B2"
+        },
+        {
+            "source": "US11959763B1",
+            "target": "US10324197B1"
+        },
+        {
+            "source": "US11959763B1",
+            "target": "US11029415B2"
+        },
+        {
+            "source": "US11959763B1",
+            "target": "US11169280B2"
+        },
+        {
+            "source": "US11959763B1",
+            "target": "US10378907B1"
+        },
+        {
+            "source": "US11959763B1",
+            "target": "US10883833B2"
+        },
+        {
+            "source": "US11959763B1",
+            "target": "US11514633B1"
+        },
+        {
+            "source": "US11959763B1",
+            "target": "US11657555B1"
+        }
+    ]
+}

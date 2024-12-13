@@ -69,6 +69,7 @@ def get_title(soup):
 
 def get_assignee(soup):
     return soup.find('dd',itemprop='assigneeCurrent').text.strip()
+    
 
 def get_pubdate(soup):
      pubdate = soup.find('td',itemprop='priorityDate').get_text()
